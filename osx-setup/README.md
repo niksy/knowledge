@@ -125,7 +125,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Set spelling for "U.S. English"
 	* System Preferences → Keyboard → Shortcuts → Keyboard
 		* Move focus to next window == ⌘“
-1. Set OSX apps
+1. Set OS X apps
 	* Messages
 		* [Add Facebook Messenger](http://computers.tutsplus.com/tutorials/quick-tip-using-facebook-chat-with-messages-on-mac--mac-49038)
 		* Show status in menubar (check)
