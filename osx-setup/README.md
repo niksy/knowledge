@@ -83,7 +83,7 @@ cd ~
 source .dotfiles/.appconfig_extra
 ```
 
-1. Set SSH keys, following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac).
+1. Set SSH keys, following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac). These instructions will generate key for GitHub.
 
 	```sh
 cd ~/.ssh
