@@ -5,6 +5,7 @@
 	```sh
 brew tap homebrew/php
 brew install php56
+```
 
 1. Install PHP extensions and related packages.
 

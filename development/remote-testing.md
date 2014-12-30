@@ -4,13 +4,13 @@
 
 For virtual host directive add:
 
-	```apache
+```apache
 ServerAlias [project].*.xip.io
 ```
 
 ## Proxy browser testing
 
-	```sh
+```sh
 npm install -g localtunnel
 lt --port 80 --local-host example.loc --subdomain example2
 ```
@@ -27,7 +27,7 @@ To avoid constant new IP setting, it is good practice to set static IP in combin
 
 ## Remote debug
 
-	```sh
+```sh
 npm install -g weinre
 weinre --boundHost=example.loc.{LOCALIP}.xip.io -all-
 ```
