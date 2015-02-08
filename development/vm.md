@@ -9,8 +9,6 @@ npm install -g iectrl
 
 ## Windows XP settings
 
-* Control Panel → System → Advanced → Performance → Settings → Adjust for best performance
-* Control Panel → Display → Appearance → Effects → ClearType
 * Control Pannel → Regional and Language Options → Languages → Text services and input languages → Details → Add → Croatian - Croatian
 
 ## Windows 7 settings
@@ -26,8 +24,7 @@ npm install -g iectrl
 ## VirtualBox VM settings
 
 ```
-VBoxManage modifyvm "{VMNAME}" --audio none
-VBoxManage modifyvm "{VMNAME}" --clipboard bidirectional
+VBoxManage modifyvm "{VMNAME}" clipboard bidirectional
 ```
 
 ## References

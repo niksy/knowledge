@@ -5,3 +5,4 @@
 * [Static IP address](static-ip-address.md)
 * [Remote debug](remote-debug.md)
 * [Standalone Selenium server](selenium-standalone.md)
+* [Standalone Selenium server, Windows](selenium-standalone-windows.md)
