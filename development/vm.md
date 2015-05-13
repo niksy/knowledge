@@ -9,8 +9,6 @@ brew cask install virtualbox
 npm install -g iectrl
 ```
 
-Hosts file is located at `/windows/system32/drivers/etc/hosts`.
-
 ## Windows XP settings
 
 * Control Pannel → Regional and Language Options → Languages → Text services and input languages → Details → Add → Croatian - Croatian
@@ -19,6 +17,10 @@ Hosts file is located at `/windows/system32/drivers/etc/hosts`.
 
 * Windows Search → Language and there set everything to "Croatian"
 * Set "HR" in taskbar
+
+## Hosts file
+
+Hosts file is located at `/windows/system32/drivers/etc/hosts`.
 
 ### Edit hosts file on Windows 7
 
