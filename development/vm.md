@@ -2,10 +2,14 @@
 
 ## Basic setup
 
+Use [iectrl](http://xdissent.github.io/iectrl/).
+
 ```sh
 brew cask install virtualbox
 npm install -g iectrl
 ```
+
+Hosts file is located at `/windows/system32/drivers/etc/hosts`.
 
 ## Windows XP settings
 
