@@ -13,6 +13,16 @@ npm install -g iectrl
 
 * Control Pannel → Regional and Language Options → Languages → Text services and input languages → Details → Add → Croatian - Croatian
 
+### IE8 KB927917 error
+
+Error description:
+
+```
+HTML Parsing Error: Unable to modify the parent container element before the child element is closed (KB927917)
+```
+
+This is a known bug in Internet Explorer 8 which manifests itself from time to time and is easily fixed with [security update](https://www.microsoft.com/en-us/download/details.aspx?id=23606). VMs provided via modern.ie don’t include this security update so it needs to be applied manually.
+
 ## Windows 7 settings
 
 * Windows Search → Language and there set everything to "Croatian"
