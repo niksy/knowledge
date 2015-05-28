@@ -30,7 +30,11 @@ This is a known bug in Internet Explorer 8 which manifests itself from time to t
 
 ## Hosts file
 
-Hosts file is located at `/windows/system32/drivers/etc/hosts`.
+Hosts file is located at `/windows/system32/drivers/etc/hosts`. VirtualBox uses `10.0.2.2` as host IP so your `hosts` file would look something like this:
+
+```
+10.0.2.2 example.loc
+```
 
 ### Edit hosts file on Windows 7
 
