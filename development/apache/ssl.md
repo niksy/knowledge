@@ -1,5 +1,7 @@
 # SSL configuration
 
+## Generate SSL certificate
+
 1. Geneate SSL certificate.
 
 	```sh
@@ -23,7 +25,21 @@ Listen 443
 
 1. Restart server (`server restart`).
 
-#### Standard SSL virtual host configuration
+## Accept self-signed certificates on OSX
+
+Web browsers, Google Chrome in particular, are very aggresive in terms of web security so self-signed certificates and their validity can be pain in the ass. To have them accepted on OSX with nice green lock icon, follow these steps.
+
+1. [Generate SSL certificate](#generate-ssl-certificate). For files (`server.pass.key`, `server.key`, `server.csr`, `server.crt`) use explicit name of your project (e.g. `example-loc.crt`).
+
+1. **When asked for common name (`Common Name (e.g. server FQDN or YOUR name) []:`), it’s important to use URL of your project.** So if your project has URL example.loc, use that.
+
+1. [Add certificate to your virtual host configuration](#standard-ssl-virtual-host-configuration).
+
+1. Add certificate to Keychain. This requires little GUI action. I suggest you follow these [instructions](http://www.andrewconnell.com/blog/setup-self-signed-certificates-trusting-them-on-os-x#add-the-certificate-as-a-trusted-root-authority).
+
+1. Repeat for every subsite on the same domain (e.g. if you have subsite foo.example.loc, you need to create separate SSL configuration).
+
+## Standard SSL virtual host configuration
 
 ```apache
 <VirtualHost *:443>
@@ -50,3 +66,4 @@ Listen 443
 ## References
 
 * https://devcenter.heroku.com/articles/ssl-certificate-self
+* http://www.andrewconnell.com/blog/setup-self-signed-certificates-trusting-them-on-os-x
