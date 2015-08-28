@@ -33,6 +33,12 @@ IdentityFile ~/.ssh/id_rsa_example
 
 Why explicit name for `id_rsa`? That way you know which key is for what host.
 
+## Add public key to remote machine
+
+`ssh-copy-id` allows one to easily set up passwordless SSH connections on a new machine. It does this by copying over your public key and setting the correct permissions.
+
+Usage: `ssh-copy-id -i example.pub username@host`
+
 ## References
 
 * [Basic instructions](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/)
