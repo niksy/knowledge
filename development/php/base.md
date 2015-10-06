@@ -45,6 +45,12 @@ LoadModule php5_module /usr/local/opt/php56/libexec/apache2/libphp5.so
 date.timezone = "Europe/Zagreb"
 ```
 
+1. For backwards compatibility, uncomment following line in `/usr/local/etc/php/5.6/php.ini`
+
+	```ini
+always_populate_raw_post_data = -1
+```
+
 ## Browser tries to download PHP file
 
 It can happen da PHP tries to download file instead of running it inside browser. It’s best to follow these instructions (the old turn off/turn on :)):
