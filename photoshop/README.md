@@ -1,15 +1,11 @@
 # Photoshop
 
-## Download
-
-* [CS 6 apps individual download](http://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html)
-
-### Creative Cloud
-
-With [Homebrew](http://brew.sh/)
+## Installation
 
 ```sh
-brew install caskroom/cask/brew-cask
+brew tap caskroom/cask
+brew tap caskroom/versions
+brew cask install adobe-design-web-premium-cs6
 brew cask install creative-cloud
 ```
 
@@ -63,3 +59,4 @@ rm master.zip
 ### References
 
 * https://forums.adobe.com/message/6806522#6806522
+* [CS 6 apps individual download](http://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html)
