@@ -148,6 +148,8 @@ Some settings can’t be set automatically so we have to set them manually.
 		* For mailboxes set Mailbox → Use This Mailbox For
 	 * iPhoto
 		* Preferences → Connecting camera opens: No application
+	 * Photos
+	 	* [Disable automatic opening when camera is connected](http://lifehacker.com/uncheck-this-box-to-stop-photos-from-opening-when-you-c-1709336195)
 1. Finder sidebar
 	* Add Home and place at top
 	* Add Movies and place below Downloads
