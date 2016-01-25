@@ -15,6 +15,7 @@ First, take a look at [settings screenshots](Preferences/Settings) and [presets]
 
 After that, follow these instructions:
 
+* Preferences → General → Image Interpolation: Bicubic (best for smooth gradients)
 * [Color settings for Photoshop (and Illustrator)](http://bjango.com/articles/photoshop/)
     * Create profile "UI Work" for easier maintenance
 * [Set "Classic Crop Mode"](http://twitter.com/jchristopher/status/255371549958369281)
