@@ -1,9 +1,9 @@
 # NPM package publishing
 
 ```sh
-npm set init.author.name "Your Name"
-npm set init.author.email "you@example.com"
-npm set init.author.url "http://example.com"
+npm config set init.author.name "Your Name"
+npm config set init.author.email "you@example.com"
+npm config set init.author.url "http://example.com"
 
 npm adduser
 ```
