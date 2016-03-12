@@ -4,6 +4,7 @@
 npm config set init.author.name "Your Name"
 npm config set init.author.email "you@example.com"
 npm config set init.author.url "http://example.com"
+npm config set init.license "MIT"
 
 npm adduser
 ```
