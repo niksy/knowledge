@@ -1,8 +1,8 @@
 # Basic Apache configuration
 
-Assumes you’re running Apache 2.4 (or OS X 10.10+).
+Assumes you’re running Apache 2.4 (or macOS 10.10+).
 
-1. Create `Sites` folder if it doesn’t exist (on newer versions of OS X it doesn’t).
+1. Create `Sites` folder if it doesn’t exist (on newer versions of macOS it doesn’t).
 
 	```sh
 cd ~

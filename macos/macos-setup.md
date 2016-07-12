@@ -1,6 +1,6 @@
-# OS X setup
+# macOS setup
 
-For OS X 10.9+. **This works for me, but I can’t guarantee it will work for you.** Still, you can see if you can change or modify your setup procedure with these instructions. Contributions welcome :).
+For macOS 10.9+. **This works for me, but I can’t guarantee it will work for you.** Still, you can see if you can change or modify your setup procedure with these instructions. Contributions welcome :).
 
 ## Backup old system
 
@@ -127,7 +127,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Set spelling for "U.S. English"
 	* System Preferences → Keyboard → Shortcuts → Keyboard
 		* Move focus to next window == ⌘“
-1. Set OS X apps
+1. Set macOS apps
 	* Messages
 		* Show status in menubar (check)
 		* Preferences → Viewing (for "My" and "Sender")

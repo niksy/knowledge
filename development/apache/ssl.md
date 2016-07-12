@@ -25,9 +25,9 @@ Listen 443
 
 1. Restart server (`server restart`).
 
-## Accept self-signed certificates on OSX
+## Accept self-signed certificates on macOS
 
-Web browsers, Google Chrome in particular, are very aggresive in terms of web security so self-signed certificates and their validity can be pain in the ass. To have them accepted on OSX with nice green lock icon, follow these steps.
+Web browsers, Google Chrome in particular, are very aggresive in terms of web security so self-signed certificates and their validity can be pain in the ass. To have them accepted on macOS with nice green lock icon, follow these steps.
 
 1. [Generate SSL certificate](#generate-ssl-certificate). For files (`server.pass.key`, `server.key`, `server.csr`, `server.crt`) use explicit name of your project (e.g. `example-loc.crt`).
 
