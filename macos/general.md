@@ -11,3 +11,4 @@ defaults read {bundle identifier}
 # References
 
 * https://nethack.ch/2014/03/30/quick-tip-flush-os-x-mavericks-plist-file-cache/
+* https://manytricks.com/blog/?p=3049
