@@ -17,7 +17,7 @@ defaults read {bundle identifier}
 
 ## Securely maintain generic passwords with Keychain
 
-If you want generic passwords accessible from your CLI, but don’t want them stored in text files and similar insecure places, the best way to store them is to use [macOS Keychain](https://en.wikipedia.org/wiki/Keychain_(software)).
+If you want generic passwords (e.g. rarely accessible HTTP basic auth credentials) accessible from your CLI, but don’t want them stored in text files and similar insecure places, the best way to store them is to use [macOS Keychain](https://en.wikipedia.org/wiki/Keychain_(software)).
 
 ### Adding generic passwords to Keychain
 
