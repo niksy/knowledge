@@ -15,7 +15,7 @@ defaults read {bundle identifier}
 * https://nethack.ch/2014/03/30/quick-tip-flush-os-x-mavericks-plist-file-cache/
 * https://manytricks.com/blog/?p=3049
 
-## Securely mainatin generic passwords with Keychain
+## Securely maintain generic passwords with Keychain
 
 If you want generic passwords accessible from your CLI, but don’t want them stored in text files and similar insecure places, the best way to store them is to use [macOS Keychain](https://en.wikipedia.org/wiki/Keychain_(software)).
 
