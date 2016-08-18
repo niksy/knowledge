@@ -36,6 +36,7 @@ To add password, there are several ways:
   4. Select "Access Control" tab
   5. Activate "Ask for Keychain password" checkbox
   6. Enter user password
+  7. Check again to confirm that checkbox is checked
 
 ### Accessing generic passwords from Keychain
 
