@@ -1,6 +1,6 @@
-# Guides
+# Knowledge
 
-Collection of instructions for various setup procedures.
+Guides, instructions, tips. Just general development knowledge.
 
 ## Contents
 
