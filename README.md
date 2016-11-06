@@ -4,6 +4,7 @@ Collection of instructions for various setup procedures.
 
 ## Contents
 
+* [General](general/README.md)
 * [macOS](macos/README.md)
 * [Development setup](development/README.md)
 * [Photoshop setup](photoshop/README.md)
