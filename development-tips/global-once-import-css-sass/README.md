@@ -1,8 +1,10 @@
 # Global once import for CSS and Sass
 
+[Test](test)
+
 ## CSS
 
-* [postcss-import][postcss-import] skips duplicates on local level with `skipDuplicates` option whic is `true` by default
+* [postcss-import][postcss-import] skips duplicates on local level with `skipDuplicates` option which is `true` by default
 * For skipping duplicates on global level use [postcss-global-import-once][postcss-global-import-once]
 
 ## Sass
