@@ -1,0 +1,11 @@
+@import url('./lucky.css') (min-width:600px);
+@import url('./lucky.css');
+@import url('./lucky.css');
+@import './lucky.css';
+@import url('./olive.css');
+@import url('./olive.css');
+@import url('./olive.css');
+
+body {
+	color: blue;
+}

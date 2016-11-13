@@ -1,0 +1,21 @@
+{
+  "name": "global-once-import-css-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test-css.js && node test-scss.js"
+  },
+  "keywords": [],
+  "author": "Ivan Nikolić <niksy5@gmail.com> (http://ivannikolic.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^3.11.3",
+    "node-sass-global-import-once": "^1.0.2",
+    "node-sass-import-once": "^1.2.0",
+    "pify": "^2.3.0",
+    "postcss": "^5.2.5",
+    "postcss-global-import-once": "^1.0.0",
+    "postcss-import": "^8.2.0"
+  }
+}
