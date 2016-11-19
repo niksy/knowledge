@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+https://mobile.twitter.com/StuRobson/status/798623606615998464
+
+> Flexible box layout for components; Grid for layouts
+
+---
+
 https://mobile.twitter.com/jaffathecake/status/794456959625887744
 
 > Test a site you work on in Chrome Devtools, 3g, with 5x CPU slowdown. Does it take over 3s for the primary content to be usable?
