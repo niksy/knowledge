@@ -28,6 +28,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Exploring ES6](http://exploringjs.com/es6/)
 * [Testing ES6 Modules with Mocha using Babel with Browserify](https://drublic.de/blog/es6-modules-using-browserify-mocha/)
 * [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
+* [for…in vs for…of](https://bitsofco.de/for-in-vs-for-of/)
 
 ### Promises
 
