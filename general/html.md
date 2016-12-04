@@ -3,18 +3,18 @@
 * Za zadržavanje kompatibilnosti sa raznim verzijama HTML-a, u nekim slučajevima
 koristi se [*polyglot markup*](http://dev.w3.org/html5/html-xhtml-author-guide/).
 * Svaka nova razina unutar HTML-a zahtijeva dodatno uvlačenje radi jednostavnijeg
-pregleda koda i njegove hijerarhije u dokumentu.	
+pregleda koda i njegove hijerarhije u dokumentu.
 * Uz to, radi lakšeg pregled koda, moguće je i dodati malo praznog prostora
 između elementa "roditelja" i elementa "djeteta".
-* Koristi samo kurent (mala slova). Svaki komad čistog koda mora biti napisan 
-kurentom: imena elemenata, atributi, vrijednosti atributa (osim ako 
-se ne radi o tekstu ili `CDATA`), selektori (osim ako se ne radi o 
+* Koristi samo kurent (mala slova). Svaki komad čistog koda mora biti napisan
+kurentom: imena elemenata, atributi, vrijednosti atributa (osim ako
+se ne radi o tekstu ili `CDATA`), selektori (osim ako se ne radi o
 specifičnim selektorima vezanim za određene module).
 * Kad god je to moguće i sigurno, izbjeći ispisivanje protokola sa resursa koji se
 uključuju unutar dokumenta. Uklanjanjem protokola izbjegavaju se problemi sa
 prikazom resursa sa više protokola.
 * Svaka linija "udomljava" samo jedan element. Iznimno se može izbjeći ako je
-potrebno ukloniti razmak prilikom korištenja `display:inline-block;` deklaracije 
+potrebno ukloniti razmak prilikom korištenja `display:inline-block;` deklaracije
 u CSS-u za prikaz elemenata ili se koristi neki *wrap* mehanizam.
 * Potrebno je uvijek pisati završni *tag* svakog elementa. Pravilo vrijedi i za
 *self-closing* elemente kojima se na kraj mora dodati *slash*.
@@ -38,8 +38,8 @@ Bolja semantika znači bolju poziciju na tražilicama.
 
 ### Ikone
 
-Ako koristiš `<i>` element za definiranje *spritea*, postavi `role="img"` ili 
-`role="presentation"` kao atribute kako bi taj element izbacio iz sloja kojeg 
+Ako koristiš `<i>` element za definiranje *spritea*, postavi `role="img"` ili
+`role="presentation"` kao atribute kako bi taj element izbacio iz sloja kojeg
 čitaju *screen readeri*.
 
 ```html
@@ -56,7 +56,7 @@ Koristiti ARIA atribute za bolji *accessibility*.
 ## Primjer
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="hr" class="no-js">
 <head>
 	<meta charset="utf-8" />
@@ -78,14 +78,36 @@ Koristiti ARIA atribute za bolji *accessibility*.
 		  Drugi element
 		  @todo do something :)
 		-->
-		<div class="baz" 
-		id="foobar" 
+		<div class="baz"
+		id="foobar"
 		data-action="foobaz">
 			<p>Tekst 2</p>
 		</div>
 
 	</div>
 
+</body>
+</html>
+```
+
+## Početni markup
+
+```html
+<!doctype html>
+<html lang="hr" class="no-js">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title></title>
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="stylesheet" href="" />
+</head>
+<body>
+
+	<script src=""></script>
 </body>
 </html>
 ```
