@@ -38,8 +38,29 @@ docker stop $(docker ps -a -q)
 docker rm $(docker ps -a -q)
 ```
 
+Or
+```sh
+docker ps -aq | xargs docker rm
+```
+
+## Start interactive session
+
+Assuming Ubuntu installation:
+
+```sh
+docker run -it <image> /bin/bash
+```
+
+Or you can attach to stopped container with Bash already started:
+
+```sh
+docker start <container>
+docker attach <container>
+```
+
 ## References
 
 * https://www.reddit.com/r/docker/comments/38l5as/osx_tip_using_dockermachine_vs_boot2docker/crwhtz6
 * http://sticksnglue.com/wordpress/a-future-without-boot2docker-featuring-docker-machine/
 * https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
+* https://gist.github.com/mitchwongho/11266726
