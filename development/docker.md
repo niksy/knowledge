@@ -31,7 +31,15 @@ Usually you would do that with `0.0.0.0` or `localhost`, so if port is mapped fr
 
 See http://stackoverflow.com/a/34015272/178058.
 
+## Stop and remove all Docker containers
+
+```sh
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+```
+
 ## References
 
 * https://www.reddit.com/r/docker/comments/38l5as/osx_tip_using_dockermachine_vs_boot2docker/crwhtz6
 * http://sticksnglue.com/wordpress/a-future-without-boot2docker-featuring-docker-machine/
+* https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
