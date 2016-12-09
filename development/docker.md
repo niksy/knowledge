@@ -58,7 +58,7 @@ docker start <container>
 docker attach <container>
 ```
 
-## Pushing image to Docker hub
+## Pushing image to Docker Hub
 
 ```sh
 docker login
