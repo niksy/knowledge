@@ -58,9 +58,19 @@ docker start <container>
 docker attach <container>
 ```
 
+## Pushing image to Docker hub
+
+```sh
+docker login
+docker tag <image> <name>:<tag>
+docker push <name>:<tag>
+```
+
 ## References
 
 * https://www.reddit.com/r/docker/comments/38l5as/osx_tip_using_dockermachine_vs_boot2docker/crwhtz6
 * http://sticksnglue.com/wordpress/a-future-without-boot2docker-featuring-docker-machine/
 * https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
 * https://gist.github.com/mitchwongho/11266726
+* http://stackoverflow.com/a/28349540/178058
+* http://stackoverflow.com/questions/36663742/docker-unauthorized-authentication-required-upon-push-with-successful-login#comment67809969_39624423
