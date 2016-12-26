@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.yuo24gqhm)
+
+> Writing a fast website is like raising a puppy, it requires constancy and consistency (both over time and from everyone involved). You can do a great job keeping everything lean and mean, but if you get sloppy and use an 11 KB library to format a date and let the puppy shit in the bed just one time, you’ve undone a lot of hard work and have some cleaning up to do.
+
+---
+
 https://jakearchibald.com/2016/fun-hacks-faster-content/
 
 ---
