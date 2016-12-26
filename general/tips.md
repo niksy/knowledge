@@ -6,7 +6,7 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.yuo24gqhm)
 
-> Writing a fast website is like raising a puppy, it requires constancy and consistency (both over time and from everyone involved). You can do a great job keeping everything lean and mean, but if you get sloppy and use an 11 KB library to format a date and let the puppy shit in the bed just one time, you’ve undone a lot of hard work and have some cleaning up to do.
+Writing a fast website is like raising a puppy, it requires constancy and consistency (both over time and from everyone involved). You can do a great job keeping everything lean and mean, but if you get sloppy and use an 11 KB library to format a date and let the puppy shit in the bed just one time, you’ve undone a lot of hard work and have some cleaning up to do.
 
 ---
 
@@ -28,7 +28,7 @@ https://mobile.twitter.com/jaffathecake/status/794456959625887744
 
 [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.xq0e4kt41)
 
-> To arbitrarily throw away contrast based on a fashion that “looks good on my perfect screen in my perfectly lit office” is abdicating designers’ responsibilities to the very people for whom they are designing.
+To arbitrarily throw away contrast based on a fashion that “looks good on my perfect screen in my perfectly lit office” is abdicating designers’ responsibilities to the very people for whom they are designing.
 
 ---
 
@@ -38,7 +38,7 @@ https://mobile.twitter.com/jaffathecake/status/794456959625887744
 
 [You Might Need JavaScript](http://hugogiraudel.com/2016/10/13/you-might-need-javascript/)
 
-> […] JavaScript is necessary for interactive modules to be fully accessible for people using assistive technologies (such as a screen reader for instance).
+[…] JavaScript is necessary for interactive modules to be fully accessible for people using assistive technologies (such as a screen reader for instance).
 
 ---
 
@@ -50,37 +50,37 @@ https://mobile.twitter.com/davatron5000/status/771416405317005312
 
 [Ethical Web Development](https://ethicalweb.org/)
 
-> As web developers, we are responsible for shaping the experiences of user's online lives. By making choices that are ethical and user-centered, we create a better web for everyone.
+As web developers, we are responsible for shaping the experiences of user's online lives. By making choices that are ethical and user-centered, we create a better web for everyone.
 
 ---
 
 [Development best practices](https://github.com/timoxley/best-practices)
 
-> Tidbits of developer best practices from around the web.
+Tidbits of developer best practices from around the web.
 
 ---
 
 [Unfolding Critical CSS](https://medium.com/@jpdevries/unfolding-critical-css-91619401b4e#.ye7xsxy15)
 
-> Critical CSS focuses so much on optimizing web pages it looses focus of optimizing websites. If we can agree a website is a series of web pages, we can agree optimizing for a single page does not translate to optimizing for a site. Web pages are not websites, so decide before you start optimizing be sure and decide which one to target.
+Critical CSS focuses so much on optimizing web pages it looses focus of optimizing websites. If we can agree a website is a series of web pages, we can agree optimizing for a single page does not translate to optimizing for a site. Web pages are not websites, so decide before you start optimizing be sure and decide which one to target.
 
 ---
 
 [A faster FT.com](http://engineroom.ft.com/2016/04/04/a-faster-ft-com/)
 
-> The speed of the site negatively impacts a user’s session depth, no matter how small the delay.
+The speed of the site negatively impacts a user’s session depth, no matter how small the delay.
 
-> Slow sites also have a detrimental effect on the number of articles people read.
+Slow sites also have a detrimental effect on the number of articles people read.
 
-> Largely, the slower the site, the greater the effect.
+Largely, the slower the site, the greater the effect.
 
-> This trend is borne out over time and typically worsens with continued delays.
+This trend is borne out over time and typically worsens with continued delays.
 
 ---
 
 [Custom UI Elements Are Bad For Accessibility. Here’s Why](http://www.customerservant.com/custom-ui-elements-are-bad-for-accessibility-heres-why/)
 
-> For one thing, you’re reinventing a wheel that’s worked well now for a very long time. For another, you’re creating more work for yourself. And finally, it’s bad for accessibility, which effects a lot of users, and I don’t just mean blind ones.
+For one thing, you’re reinventing a wheel that’s worked well now for a very long time. For another, you’re creating more work for yourself. And finally, it’s bad for accessibility, which effects a lot of users, and I don’t just mean blind ones.
 
 ---
 
@@ -90,11 +90,11 @@ https://mobile.twitter.com/davatron5000/status/771416405317005312
 
 [Performance is a feature](https://peterchamberlin.com/fast.php)
 
-> Performance is not a technical problem.
+Performance is not a technical problem.
 
-> Performance isn’t a technical niggle that "we should get around to fixing". It is an opportunity to grow your audience, to grow your business, to convert more sales (or whatever it is eCommerce people do).
+Performance isn’t a technical niggle that "we should get around to fixing". It is an opportunity to grow your audience, to grow your business, to convert more sales (or whatever it is eCommerce people do).
 
-> Performance is an opportunity, and a risk, the same way that a redesigned template is. Or a new logo. Or a change to the colour of a button CTA.
+Performance is an opportunity, and a risk, the same way that a redesigned template is. Or a new logo. Or a change to the colour of a button CTA.
 
 ---
 
@@ -106,13 +106,13 @@ A collection of simple recommendations for decent Web application frontends.
 
 [Why I hate your Single Page App](https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134#.ayuw2ljje)
 
-> […]  think about what makes the web the web. The single most important feature of the web is that you can link to individual things.
+[…]  think about what makes the web the web. The single most important feature of the web is that you can link to individual things.
 
 ---
 
 [Enduring CSS presentation](http://ecss.io/slides1/#/25)
 
-> Two years ago I wrote a book where I was preaching DRY code, but after working on enduring projects (BBC News and theguardian.com responsive sites), it's "decoupling" that became more important to me. — Kaelig Deloumeau-Prigent
+Two years ago I wrote a book where I was preaching DRY code, but after working on enduring projects (BBC News and theguardian.com responsive sites), it's "decoupling" that became more important to me. — Kaelig Deloumeau-Prigent
 
 ---
 
