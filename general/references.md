@@ -135,6 +135,8 @@ Some useful reference material on various development topics. Will probably be t
 * [next.js](https://github.com/zeit/next.js)
 * [React.Js: Achieving 20ms server response time with Server Side Rendering and caching](https://ateev.in/react-js-achieving-20ms-server-response-time-with-server-side-rendering-1ea80e420d88#.a61eip163)
 * [Electrode](http://www.electrode.io/)
+* [SSR #1](https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/)
+* [SSR #2](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 
 #### Testing
 
