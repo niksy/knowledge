@@ -47,6 +47,188 @@ Some useful reference material on various development topics. Will probably be t
 * [Configuring Babel 6: polyfills and helpers](http://www.2ality.com/2015/12/babel6-helpersstandard-library.html)
 * [Configuring Babel 6: loose mode](http://www.2ality.com/2015/12/babel6-loose-mode.html)
 
+### React
+
+* [React](https://facebook.github.io/react/)
+* [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/)
+* [Should I use React.createClass, ES6 Classes or stateless functional components?](http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/)
+* [React Primer](https://github.com/mikechau/react-primer-draft)
+* [React how-to](https://github.com/petehunt/react-howto)
+* [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/)
+* [Higher order components - theory and practice](http://engineering.blogfoster.com/higher-order-components-theory-and-practice/)
+* [How to handle state in React](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c#.nzqkn5jno)
+* [Should I keep something in React component state?](https://mobile.twitter.com/dan_abramov/status/749710501916139520?ref_src=twsrc%5Etfw)
+* [React.js in Patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+* [Patterns for style composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react/)
+* [React patterns](http://reactpatterns.com/)
+* [Questions and answers](https://github.com/timarney/react-faq)
+* [Event handling problems (solution: use native DOM events, explained in later tweets)](https://mobile.twitter.com/nolanlawson/status/771388641083928576)
+* [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005#.z93rb596p)
+* [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.eo65tn7zh)
+* [Function as Child Components](https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9#.eym5i1nd7)
+* [React "aha" moments](https://tylermcginnis.com/react-aha-moments/)
+* [Controlled vs. Uncontrolled Inputs](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+* [How to safely use React context](https://medium.com/@mweststrate/how-to-safely-use-react-context-b7e343eff076#.6jw2ashcc)
+* [Using State Correctly](https://facebook.github.io/react/docs/state-and-lifecycle.html#using-state-correctly)
+* [High-class performance #1](http://benchling.engineering/performance-engineering-with-react/)
+* [High-class performance #2](https://vimeo.com/168648012)
+* [High-class performance #3](https://medium.com/modus-create-front-end-development/component-rendering-performance-in-react-df859b474adc#.g0ecu1dsd)
+* [High-class performance #4](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.vcurxndiu)
+* [High-class performance #5](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/)
+* [High-class performance #6](https://github.com/eyaleizenberg/babel-react-render-defender)
+* [Bundle tips #1](https://twitter.com/MoOx/status/702881401792757760)
+* [Bundle tips #2](https://github.com/timarney/react-setup)
+* [Bundle tips #3](https://mobile.twitter.com/tonygentilcore/status/771718499932655616)
+* [Component code splitting #1](http://blog.netgusto.com/asynchronous-reactjs-component-loading-with-webpack/)
+* [Component code splitting #2](https://github.com/ReactTraining/react-router/blob/master/docs/guides/DynamicRouting.md)
+* [Component code splitting #3](http://mxstbr.blog/2016/01/react-apps-with-pages/)
+* [Component code splitting #4](https://tailordev.fr/blog/2016/03/17/loading-dependencies-asynchronously-in-react-components/)
+
+#### Server-side render
+
+* [Let's learn React.js and server side rendering!](https://github.com/kohei-takata/learnyoureact)
+* [Universal React 1](https://24ways.org/2015/universal-react/)
+* [Universal React 2](https://speakerdeck.com/jackfranklin/universal-react)
+* [SSR with React](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/)
+* [Introduction to server side rendering](https://github.com/dimaip/server-side-rendering)
+* [react-server](https://github.com/redfin/react-server)
+* [React Isomorphic Demo](https://github.com/jacobp100/react-isomophic-demo)
+* [Static rendering](https://github.com/geelen/react-snapshot)
+* [Proper React server render structure?](https://speakerdeck.com/abhinavrastogi/next-gen-web-scaling-progressive-web-apps)
+* [react-router-server](https://github.com/gabrielbull/react-router-server)
+* [Server-side React](https://remysharp.com/2016/12/07/server-side-react)
+* [next.js](https://github.com/zeit/next.js)
+* [React.Js: Achieving 20ms server response time with Server Side Rendering and caching](https://ateev.in/react-js-achieving-20ms-server-response-time-with-server-side-rendering-1ea80e420d88#.a61eip163)
+* [Electrode](http://www.electrode.io/)
+
+#### Testing
+
+* [Shallow rendering](https://facebook.github.io/react/docs/test-utils.html)
+* [Testing React components](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
+* [Enzyme](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.h8rvtkakt)
+* [Testing React codebase](http://silvenon.com/testing-react-and-redux/)
+* [Page objects for testing React components](Page object for testing React.js components)
+
+#### Courses
+
+* [React for beginners](https://reactforbeginners.com/)
+* [Learning React](https://css-tricks.com/learning-react-router/)
+* [Learn React](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)
+
+#### Backbone
+
+* [Using Backbone Models and Collections with React](http://upliftingcode.com/blog/2015/06/using-backbone-models-and-collections-with-react/)
+* [react.backbone](https://github.com/clayallsopp/react.backbone)
+* [backbone-react-component](https://github.com/magalhas/backbone-react-component)
+
+#### Resources
+
+* [awesome-react](https://github.com/enaqx/awesome-react)
+* [awesome-react-components](https://github.com/brillout/awesome-react-components)
+* [Reactotron](https://github.com/reactotron/reactotron)
+* [preact](https://preactjs.com/)
+* [inferno](https://github.com/trueadm/inferno)
+* [React Router tips](https://github.com/ReactTraining/react-router-addons-routes)
+* [react-broadcaast](https://github.com/ReactTraining/react-broadcast)
+* [code-split-component](https://github.com/ctrlplusb/code-split-component)
+* [React Hot Loader Intro](https://github.com/facebookincubator/create-react-app/issues/1063#issuecomment-261788083)
+* [react-devtools](https://github.com/facebook/react-devtools)
+
+#### Notes
+
+* Always start component names with a capital letter.
+* Components must return a single root element.
+* If you don't use something in `render()`, it shouldn't be in the state.
+* A good rule of thumb is that elements inside the `map()` call need keys.
+* Always include keys when iterating and rendering elements
+* When you want to aggregate data from multiple children or to have two child components communicate with each other, move the state upwards so that it lives in the parent component. The parent can then pass the state back down to the children via props, so that the child components are always in sync with each other and with the parent.
+* Smaller alternatives like Preact and Inferno improve performance and size
+* Alternatives to JSX: [#1](https://github.com/andreypopp/es6-template-strings-jsx), [#2](https://github.com/bigpipe/react-jsx)
+* JSX should always have `return ({{ jsx }});`
+* [Using React without ES6 (classes vs createClass)](https://facebook.github.io/react/docs/react-without-es6.html)
+* Avodi using React context API
+* Stateless functional components are best because they are isolated and can be optimized in the future
+* Avoid state and use props as much as possible to leverage top-down approach
+* Use babel-preset-react for JSX transpiling
+* Pure components and `shouldComponentUpdate` should be used for render cache and faster and optimized rendering
+* User container components for data and presentational components for UI
+
+### Redux
+
+* [Redux](http://redux.js.org/)
+* [Redux notes from video tutorial](https://gist.github.com/diegoconcha/8918294bb9df69876b22)
+* [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.60zt8d5sw)
+* [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.tos4klszj)
+* [Redux in plain English](https://quickleft.com/blog/redux-plain-english-workflow/)
+* [Introduction to Redux](https://www.smashingmagazine.com/2016/06/an-introduction-to-redux/)
+* [Making sense of Redux](https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.2bnmtj8ma)
+* [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.kw8vmccvg)
+* [Redux thunks explanation](https://daveceddia.com/what-is-a-thunk/)
+
+#### Testing
+
+* [Testing React/Redux applications](https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f#.cf3lydsy1)
+
+#### Courses
+
+* [Redux Examples](http://redux.js.org/docs/introduction/Examples.html)
+* [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+* [Learn Redux](https://learnredux.com/)
+* [React/Redux simple example](http://jsforallof.us/2016/09/08/conversational-sign-up-form-ui-with-react-and-redux/)
+* [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.u11uiyw8z)
+* [Practical Redux](http://blog.isquaredsoftware.com/2016/10/practical-redux-part-0-introduction/)
+
+#### Resources
+
+* [awesome-redux](https://github.com/xgrommx/awesome-redux)
+* [redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links)
+* [react-redux-links](https://github.com/markerikson/react-redux-links)
+* [redux-devtools](https://github.com/gaearon/redux-devtools)
+* [redux-subscriber](https://github.com/ivantsov/redux-subscriber)
+* [redux-orm](https://github.com/tommikaikkonen/redux-orm)
+* [flux-standard-action](https://github.com/acdlite/flux-standard-action)
+* [redux-actions](https://github.com/acdlite/redux-actions)
+* [normalizr](https://github.com/paularmstrong/normalizr)
+
+#### Notes
+
+* An action is a plain object describing what happened. Think of an action as a very brief snippet of news. "Mary liked article 42." or "‘Read the Redux docs.' was added to the list of todos."
+  * `{ type: 'LIKE_ARTICLE', articleId: 42 }`
+  * `{ type: 'ADD_TODO', text: 'Read the Redux docs.' }`
+* Reducer is a pure function. It only computes the next state. It should be completely predictable: calling it with the same inputs many times should produce the same outputs. It shouldn't perform any side effects like API calls or router transitions. These should happen before an action is dispatched.
+* It’s important that reducers are pure and without side effects. Every time you provide the same inputs, you should always get the same output.
+
+### MobX
+
+* [MobX](https://mobxjs.github.io/mobx/index.html)
+
+### Relay
+
+* [A cartoon guide to Facebook’s Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5#.nsnmyzoow)
+* [GraphQL](https://medium.com/apollo-stack/the-basics-of-graphql-in-5-links-9e1dc4cac055#.94prjaezy)
+
+### Vue.js
+
+* [Vue](https://vuejs.org/)
+* [Vuex](http://vuex.vuejs.org/en/)
+* [Vue Router](https://router.vuejs.org/en/)
+* [Common gotchas](https://vuejs.org/2016/02/06/common-gotchas/)
+* [Private scope for non-reactive data and methods](https://github.com/vuejs/vue/issues/1988#issuecomment-163013818)
+
+#### Server-side rendering
+
+* [nuxt.js](https://github.com/nuxt/nuxt.js)
+
+#### Resources
+
+* [awesome-vue](https://github.com/vuejs/awesome-vue)
+
+#### Notes
+
+* It is often overlooked that the source of truth in Vue applications is the raw data object - a Vue instance simply proxies access to it. Therefore, if you have a piece of state that should be shared by multiple instances, you can simply share it by identity
+* When defining a component, data must be declared as a function that returns the initial data object, because there will be many instances created using the same definition.
+* Prefer top Vue component instance and every component exported as object instead of `Vue.component` or `Vue.extend`
+
 ## Articles
 
 * [More Transparent UI Code with Namespaces](http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
