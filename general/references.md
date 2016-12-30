@@ -259,6 +259,7 @@ Some useful reference material on various development topics. Will probably be t
 #### Resources
 
 * [awesome-vue](https://github.com/vuejs/awesome-vue)
+* [vue-nonreactive](https://github.com/rpkilby/vue-nonreactive)
 
 #### Notes
 
