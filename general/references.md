@@ -267,22 +267,48 @@ Some useful reference material on various development topics. Will probably be t
 * When defining a component, data must be declared as a function that returns the initial data object, because there will be many instances created using the same definition.
 * Prefer top Vue component instance and every component exported as object instead of `Vue.component` or `Vue.extend`
 
-## Articles
+## Performance
 
-* [More Transparent UI Code with Namespaces](http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
-* [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
-* [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
-* [Single Responsibility](http://drewbarontini.com/articles/single-responsibility/)
-* [SUIT](https://github.com/suitcss/suit)
-* [Simple CSS tips](http://simurai.com/blog/2015/09/09/back-to-the-roots/)
-* [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.fbilj1gx0)
-* [JS adolescence](http://james.padolsey.com/javascript/js-adolescence/)
-* [Decoupling Your HTML, CSS, and JavaScript](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
-* [CSS Architecture](http://engineering.appfolio.com/2012/11/16/css-architecture/)
-* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
-* [Front-end design principles](http://clearleft.com/thinks/103)
-* [SOLID CSS](http://blog.millermedeiros.com/solid-css/)
-* [OOCSS](https://github.com/stubbornella/oocss/wiki)
+* [Prefetching, preloading, prebrowsing #1](https://css-tricks.com/prefetching-preloading-prebrowsing/)
+* [Prefetching, preloading, prebrowsing #2](https://docs.google.com/presentation/d/18zlAdKAxnc51y_kj-6sWLmnjl6TLnaru_WH0LJTjP-o/present?slide=id.p19)
+* [Working out what DNS to prefetch](https://paul.kinlan.me/quick-script-for-prefetch/)
+* [Performance budgets in action](https://speedcurve.com/blog/performance-budgets-in-action/?goal=0_df65b6d7c8-960dda284b-51908625)
+* [How we make RWD sites load fast as heck](https://www.filamentgroup.com/lab/performance-rwd.html)
+* [Let’s talk about web performance](https://ponyfoo.com/articles/talk-about-web-performance)
+* [HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+* [Render inline styles on first visit and cached async loaded styles on repeat visits](https://adactio.com/journal/8504)
+* [WPOStats](https://wpostats.com/)
+* [Loading web fonts asynchronously](http://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
+* [Bullet-proof web font syntax](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+* [Strategies for Staying on Top of Web Performance](https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/)
+* [link[rel="preload"] use cases](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
+* [Pinboard links on performance](https://pinboard.in/u:niksy/t:performance/)
+* [Fast enough](https://timkadlec.com/2014/01/fast-enough/)
+
+### Tools
+
+* [Yellowlab tools - Online test to help speeding up heavy web pages](http://yellowlab.tools/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [YSlow](http://yslow.org/)
+* [WebPageTest](https://www.webpagetest.org/)
+* [SpeedCurve](http://speedcurve.com/)
+* [sitespeed.io (aka advanced SpeedCurve)](https://www.sitespeed.io/)
+* [Performance budget calculator](http://www.performancebudget.io/)
+
+### Resources
+
+* [Frontend Checklist for Websites](https://github.com/drublic/checklist/blob/master/README.md)
+* [perf.rocks](http://perf.rocks/)
+* [perf-tooling.today](http://www.perf-tooling.today/)
+* [Jankfree](http://jankfree.org/)
+
+### Notes
+
+* Minimum cache time of one week and preferably up to one year for static assets or assets that change infrequently is recommended.
+* On performance testing your site
+	* Start out by testing at most five URLs. When you know your site you can start testing more.
+	* First test each URL three times, and check if the metrics are consistent. If not increase the number of runs.
+	* How often you should run your tests depends on how often you deploy and change content in production. Make sure to test as often as you need to catch changes and being able to pinpoint them.
 
 ## Guidelines
 
@@ -314,11 +340,3 @@ Some useful reference material on various development topics. Will probably be t
 * [Front-end handbook](http://handbook.imarc.net/frontend)
 * [Isobar code standards](http://isobar-idev.github.io/code-standards/)
 * [node style guide](https://github.com/felixge/node-style-guide)
-
-## Tools
-
-* [mdcss](https://github.com/jonathantneal/mdcss)
-
-## TODO
-
-* Investigate z-index setting (http://www.sassmeister.com/gist/11172138)
