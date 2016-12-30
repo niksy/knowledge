@@ -4,6 +4,62 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Performance Budget Metrics](https://timkadlec.com/2014/11/performance-budget-metrics/)
+
+Use rule based metrics to make sure you haven’t overlooked simple optimizations.
+
+Use quantity based metrics as guides to help designers and developers make better decisions about what goes onto a page.
+
+But always back those up with a strictly enforced budget using a metric (like SpeedIndex) that is more directly related to the overall experience to ensure that the result feels fast.
+
+---
+
+[RWD Bloat](https://speakerdeck.com/davatron5000/rwd-bloat)
+
+* Throttling is super important since most of the world doesn’t have Google Fiber
+* Designers, your job is not done until the site ships
+* Performance is everyone’s job. Not just developers
+
+---
+
+[Breaking news at 1000ms](https://speakerdeck.com/patrickhamann/breaking-news-at-1000ms-front-trends-2014)
+
+* 3000 surveyed users rated "speed" as 2nd most important key product driver (out of 17), only after "easy to find content"
+* Core content should be delivered first and should render within 1000ms, and then extras should be progressively enhanced
+* Everyone must be involved by baking performance into your workflow from day one
+* Set a performance budget; measure, optimise and repeat
+* Performance is a requirement; not a feature
+
+---
+
+https://timkadlec.com/2014/01/fast-enough/#comment-1200946500
+
+Paul Irish:
+
+> My answer to how fast is fast enough? A Speed Index of under 1000.
+
+> And for professionals that get there, they should shoot for delivering the critical-path view (above the fold) in the first 14kb of the page. That way you are guaranteed to be serving the initial view of the site within the first RTT.
+
+---
+
+https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.g3eb97ca8f_1194
+
+Measuring performance by the KB is like measuring effectiveness of your diet by the pound. Measuring performance by number of requests is like measuring your diet by number of things you ate - in both cases, who cares about what you actually ate, right?
+
+* not all requests are made equal: some are blocking / critical, some are more expensive depending on when they're made
+* not all nutrients are made equal: some release energy faster, some slower, some are better for you than others
+* not all bytes are made equal: the first 14KB are extremely important, bytes of different content-types have different impact on performance, etc.
+
+Aggresive, but good goals:
+
+* Deliver a fast mobile web page load
+	* Show the above-the-fold content in under 1 second
+	* Serve above-the-fold content, including critical path CSS, in first 14kB of response
+* Maximum of 200ms server response time
+* SpeedIndex under 1000
+
+---
+
 [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.yuo24gqhm)
 
 Writing a fast website is like raising a puppy, it requires constancy and consistency (both over time and from everyone involved). You can do a great job keeping everything lean and mean, but if you get sloppy and use an 11 KB library to format a date and let the puppy shit in the bed just one time, you’ve undone a lot of hard work and have some cleaning up to do.
