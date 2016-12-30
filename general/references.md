@@ -309,6 +309,28 @@ Some useful reference material on various development topics. Will probably be t
 	* Start out by testing at most five URLs. When you know your site you can start testing more.
 	* First test each URL three times, and check if the metrics are consistent. If not increase the number of runs.
 	* How often you should run your tests depends on how often you deploy and change content in production. Make sure to test as often as you need to catch changes and being able to pinpoint them.
+	
+## Testing
+
+* [Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs](http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/)
+* [Mocking API requests in Node](http://javascriptplayground.com/blog/2013/08/mocking-web-requests/)
+* [nock](https://github.com/node-nock/nock) - za Node (http)
+* [faux-jax](https://github.com/algolia/faux-jax) - za browser (XHR) i Node (http)
+* [fetch-mock](https://github.com/wheresrhys/fetch-mock) - za browser (fetch) i Node (fetch)
+* [nock-exec](https://www.npmjs.com/package/nock-exec) - za CLI alate
+* [mock-xhr](https://github.com/jameslnewell/xhr-mock) - za browser
+* [mocky](https://github.com/2do2go/mocky) - za Node (http)
+* [zock](https://github.com/Zolmeister/zock) - za browser (xhr/fetch) i Node (http)
+* [sinon xhr](http://sinonjs.org/docs/#server) - za browser (xhr)
+* [farfetchd](https://github.com/athaeryn/farfetched) - za browser (fetch)
+* [jquery-mockjax](https://github.com/jakerella/jquery-mockjax) - za browser (xhr)
+* [fakeserver](https://github.com/faassen/fakeserver) - fake data
+* [backend](https://github.com/ryanzec/backend) - fake data
+* [pretender](https://github.com/pretenderjs/pretender) - za browser (xhr)
+* [chakram](http://dareid.github.io/chakram/)
+* [proxyquire](https://github.com/thlorenz/proxyquire)
+* [rewire](https://github.com/jhnns/rewire)
+* [sinon](http://sinonjs.org/)
 
 ## Guidelines
 
