@@ -4,16 +4,6 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
-[Performance Budget Metrics](https://timkadlec.com/2014/11/performance-budget-metrics/)
-
-Use rule based metrics to make sure you haven’t overlooked simple optimizations.
-
-Use quantity based metrics as guides to help designers and developers make better decisions about what goes onto a page.
-
-But always back those up with a strictly enforced budget using a metric (like SpeedIndex) that is more directly related to the overall experience to ensure that the result feels fast.
-
----
-
 [RWD Bloat](https://speakerdeck.com/davatron5000/rwd-bloat)
 
 * Throttling is super important since most of the world doesn’t have Google Fiber
