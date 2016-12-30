@@ -2,9 +2,10 @@
 
 Some useful reference material on various development topics. Will probably be transfered to my Pinboard account at later date.
 
-## General
+## Checklist
 
 * [Front-end guidelines questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
+* [Frontend Checklist for Websites](https://github.com/drublic/checklist/blob/master/README.md)
 
 ## CSS
 
@@ -297,7 +298,6 @@ Some useful reference material on various development topics. Will probably be t
 
 ### Resources
 
-* [Frontend Checklist for Websites](https://github.com/drublic/checklist/blob/master/README.md)
 * [perf.rocks](http://perf.rocks/)
 * [perf-tooling.today](http://www.perf-tooling.today/)
 * [Jankfree](http://jankfree.org/)
