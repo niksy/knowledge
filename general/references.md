@@ -44,6 +44,34 @@ Some useful reference material on various development topics. Will probably be t
 
 ## JavaScript
 
+### Resources
+
+* [YDKJS](https://github.com/getify/You-Dont-Know-JS)
+* [Human Javascript](http://humanjavascript.com/)
+* [Rx Book](http://xgrommx.github.io/rx-book/)
+
+### Generators
+
+* [Synchronous asynchronous JavaScript with ES6 Generators](http://chrisbuttery.com/articles/synchronous-asynchronous-javascript-with-es6-generators/)
+* [Taming the asynchronous beast with ES7](http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
+* [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
+* [Iterables and iterators in ECMAScript 6](http://www.2ality.com/2015/02/es6-iteration.html)
+* [Learn ES6 Generators](https://github.com/isRuslan/learn-generators)
+
+## Node
+
+* [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+* [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
+* [Meet the Connect framework](http://code.tutsplus.com/tutorials/meet-the-connect-framework--net-31220)
+* [Introduction to Express](http://code.tutsplus.com/tutorials/introduction-to-express--net-33367)
+* [Teach yourself Node in 10 steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+* [Nodeschool Tutorials](http://nodeschool.io/#workshoppers)
+* [Node tips](https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c#.ajidfbj5v)
+* [Node for beginners](https://github.com/rockbot/node-for-beginners)
+* [The Node Way](http://thenodeway.io/)
+* [Build a RESTful API Using Node and Express](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+* [Simple RESTful web app with Express and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
+
 ### ES6
 
 * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
@@ -158,6 +186,13 @@ Some useful reference material on various development topics. Will probably be t
 * [Using Backbone Models and Collections with React](http://upliftingcode.com/blog/2015/06/using-backbone-models-and-collections-with-react/)
 * [react.backbone](https://github.com/clayallsopp/react.backbone)
 * [backbone-react-component](https://github.com/magalhas/backbone-react-component)
+* [Pragmatic Backbone](http://pragmatic-backbone.com/)
+* [Rendering Views in Backbone.js Isn't Always Simple](http://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple/)
+* [backbone-model-factory](https://github.com/misteroneill/backbone-model-factory)
+* [Backbone Patterns](http://ricostacruz.com/backbone-patterns/)
+* [Single page apps in depth](http://singlepageappbook.com/)
+* [Implementing microstates in Backbone.js](http://chrisawren.com/posts/Implementing-microstates-in-Backbone-js)
+* [awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
 
 #### Resources
 
@@ -309,6 +344,14 @@ Some useful reference material on various development topics. Will probably be t
 	* Start out by testing at most five URLs. When you know your site you can start testing more.
 	* First test each URL three times, and check if the metrics are consistent. If not increase the number of runs.
 	* How often you should run your tests depends on how often you deploy and change content in production. Make sure to test as often as you need to catch changes and being able to pinpoint them.
+	
+## SVG
+
+* [How to work with SVG icons](https://fvsch.com/code/svg-icons/how-to/)
+* [SVG 101](http://cloudfour.github.io/slides-svg-101/#/)
+* [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
+* [Using canvas to fix SVG scaling in Internet Explorer](http://nicolasgallagher.com/canvas-fix-svg-scaling-in-internet-explorer/)
+* [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
 	
 ## Testing
 
