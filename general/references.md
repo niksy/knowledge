@@ -340,3 +340,20 @@ Some useful reference material on various development topics. Will probably be t
 * [Front-end handbook](http://handbook.imarc.net/frontend)
 * [Isobar code standards](http://isobar-idev.github.io/code-standards/)
 * [node style guide](https://github.com/felixge/node-style-guide)
+
+## Articles
+
+* [More Transparent UI Code with Namespaces](http://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/)
+* [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
+* [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](https://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects/)
+* [Single Responsibility](http://drewbarontini.com/articles/single-responsibility/)
+* [SUIT](https://github.com/suitcss/suit)
+* [Simple CSS tips](http://simurai.com/blog/2015/09/09/back-to-the-roots/)
+* [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.fbilj1gx0)
+* [JS adolescence](http://james.padolsey.com/javascript/js-adolescence/)
+* [Decoupling Your HTML, CSS, and JavaScript](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
+* [CSS Architecture](http://engineering.appfolio.com/2012/11/16/css-architecture/)
+* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+* [Front-end design principles](http://clearleft.com/thinks/103)
+* [SOLID CSS](http://blog.millermedeiros.com/solid-css/)
+* [OOCSS](https://github.com/stubbornella/oocss/wiki)
