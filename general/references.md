@@ -147,6 +147,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Component code splitting #2](https://github.com/ReactTraining/react-router/blob/master/docs/guides/DynamicRouting.md)
 * [Component code splitting #3](http://mxstbr.blog/2016/01/react-apps-with-pages/)
 * [Component code splitting #4](https://tailordev.fr/blog/2016/03/17/loading-dependencies-asynchronously-in-react-components/)
+* [Component code splitting #5](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#bd8e)
 
 #### Server-side render
 
