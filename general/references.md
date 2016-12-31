@@ -322,6 +322,7 @@ Some useful reference material on various development topics. Will probably be t
 * [link[rel="preload"] use cases](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)
 * [Pinboard links on performance](https://pinboard.in/u:niksy/t:performance/)
 * [Fast enough](https://timkadlec.com/2014/01/fast-enough/)
+* [HTTP/2 Server Push and Service Workers: The Perfect Partnership](https://24ways.org/2016/http2-server-push-and-service-workers/)
 
 ### Tools
 
@@ -376,6 +377,12 @@ Some useful reference material on various development topics. Will probably be t
 * [proxyquire](https://github.com/thlorenz/proxyquire)
 * [rewire](https://github.com/jhnns/rewire)
 * [sinon](http://sinonjs.org/)
+
+## Accessibility
+
+### Tools
+
+* [Tenon](https://tenon.io/index.php)
 
 ## Guidelines
 
