@@ -305,8 +305,42 @@ Some useful reference material on various development topics. Will probably be t
 * When defining a component, data must be declared as a function that returns the initial data object, because there will be many instances created using the same definition.
 * Prefer top Vue component instance and every component exported as object instead of `Vue.component` or `Vue.extend`
 
+### Service Workers
+
+* [Service Workers](https://serviceworke.rs/)
+* [Service Workers 101](https://github.com/delapuente/service-workers-101)
+* [Basic Service Worker](https://gist.github.com/adactio/fbaa3a5952774553f5e7)
+* [Service Worker lifecycle](https://bitsofco.de/the-service-worker-lifecycle/)
+* [Service Worker gotchas #1](https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9)
+* [Service Worker gotchas #2](https://medium.com/@boopathi/service-workers-gotchas-44bec65eab3f#.mvo74pv4y)
+* [c/p guide to Service Workers](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker)
+* [Progressive web app demo with all the bells and whistles (offline, push notifications, home screen, background sync, share, …)](https://github.com/gokulkrishh/demo-progressive-web-app)
+* [Pragmatist's Guide to Service Workers](https://github.com/lyzadanger/pragmatist-service-worker)
+* [PWA Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Is Service Worker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
+* [PWA Tips](https://developers.google.com/web/)
+* [Service Workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
+* ["Offline First" with Service Worker](https://bitsofco.de/bitsofcode-pwa-part-1-offline-first-with-service-worker/)
+* [Push Notifications on the Web](https://bitsofco.de/bitsofcode-pwa-part-3-push-notifications/)
+* [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+* [Background Sync](https://ponyfoo.com/articles/backgroundsync)
+* [Introduction to Service Workers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+
+#### Resources
+
+* [Service Worke.rs](https://serviceworke.rs/)
+* [PWA resources](https://dev.opera.com/articles/pwa-resources/)
+* [awesome-service-workers](https://github.com/TalAter/awesome-service-workers)
+
+#### Tools
+
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse)
+* [sw-precache](https://github.com/GoogleChrome/sw-precache)
+* [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox)
+
 ## Performance
 
+* [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/)
 * [Prefetching, preloading, prebrowsing #1](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 * [Prefetching, preloading, prebrowsing #2](https://docs.google.com/presentation/d/18zlAdKAxnc51y_kj-6sWLmnjl6TLnaru_WH0LJTjP-o/present?slide=id.p19)
 * [Working out what DNS to prefetch](https://paul.kinlan.me/quick-script-for-prefetch/)
