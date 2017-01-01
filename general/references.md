@@ -304,6 +304,7 @@ Some useful reference material on various development topics. Will probably be t
 * It is often overlooked that the source of truth in Vue applications is the raw data object - a Vue instance simply proxies access to it. Therefore, if you have a piece of state that should be shared by multiple instances, you can simply share it by identity
 * When defining a component, data must be declared as a function that returns the initial data object, because there will be many instances created using the same definition.
 * Prefer top Vue component instance and every component exported as object instead of `Vue.component` or `Vue.extend`
+* Unlike React, Vue doesn’t have global event handle which delegates events to every component. Instead, [it attaches event ot each component](https://forum.vuejs.org/t/is-event-delegation-necessary/3701). This can have performance on really large lists of data (but probably isn’t that bad).
 
 ### Service Workers
 
