@@ -1,6 +1,11 @@
 # Basic Apache configuration
 
-Assumes you’re running Apache 2.4 (or macOS 10.10+).
+1. Install Apache.
+
+	```sh
+brew tap homebrew/apache
+brew install httpd24 --with-privileged-ports
+```
 
 1. Create `Sites` folder if it doesn’t exist (on newer versions of macOS it doesn’t).
 
@@ -9,23 +14,29 @@ cd ~
 mkdir Sites
 ```
 
-1. Create folder `sites-available` in Apache root folder (`/etc/apache2/`). Inside `sites-available` for every virtual host you must create specific `.conf` file with settings (use [standard virtual host configuration](#standard-virtual-host-configuration)).
+1. Create folder `sites-available` in Apache root folder (`/usr/local/etc/apache2/2.4/`). Inside `sites-available` for every virtual host you must create specific `.conf` file with settings (use [standard virtual host configuration](#standard-virtual-host-configuration)).
 
-1. Inside `/etc/apache2/other/` folder create configuration file `httpd-extra.conf` and inside it add following content:
+1. Create folder `/usr/local/etc/apache2/2.4/other` and inside it create configuration file `httpd-extra.conf` and inside it add following content:
 
 	```apache
 User niksy
 Group staff
 ServerName localhost
-Include /private/etc/apache2/sites-available/*.conf
+Include /usr/local/etc/apache2/2.4/sites-available/*.conf
 ```
 
-1. Activate (uncomment) following modules inside `/etc/apache2/httpd.conf`:
+1. Activate (uncomment) following modules inside `/usr/local/etc/apache2/2.4/httpd.conf`:
  
 	```apache
 LoadModule deflate_module libexec/apache2/mod_deflate.so
 LoadModule ssl_module libexec/apache2/mod_ssl.so
 LoadModule rewrite_module libexec/apache2/mod_rewrite.so
+```
+
+1. At the bottom of `/usr/local/etc/apache2/2.4/httpd.conf` add following content:
+
+	```apache
+Include /usr/local/etc/apache2/2.4/other/*.conf
 ```
 
 1. Restart server (`server restart`).
