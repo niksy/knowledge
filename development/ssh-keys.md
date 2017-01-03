@@ -53,3 +53,4 @@ Host *
 * [Basic instructions](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/)
 * [Multiple SSH keys](http://dbushell.com/2013/01/27/multiple-accounts-and-ssh-keys/)
 * http://superuser.com/a/1158050
+* http://apple.stackexchange.com/a/254714/26182
