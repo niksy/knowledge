@@ -39,7 +39,17 @@ Why explicit name for `id_rsa`? That way you know which key is for what host.
 
 Usage: `ssh-copy-id -i example.pub username@host`
 
+## Use Keychain on macOS 10.12
+
+To make macOS Sierra use SSH credentials stored to Keychain and not ask you for passphrase everytime you try to use SSH entry, add this to `~/.ssh/config` at top of the file:
+
+	```
+Host *
+	UseKeychain yes
+```
+
 ## References
 
 * [Basic instructions](http://net.tutsplus.com/tutorials/tools-and-tips/how-to-work-with-github-and-multiple-accounts/)
 * [Multiple SSH keys](http://dbushell.com/2013/01/27/multiple-accounts-and-ssh-keys/)
+* http://superuser.com/a/1158050
