@@ -43,7 +43,7 @@ Usage: `ssh-copy-id -i example.pub username@host`
 
 To make macOS Sierra use SSH credentials stored to Keychain and not ask you for passphrase everytime you try to use SSH entry, add this to `~/.ssh/config` at top of the file:
 
-	```
+```
 Host *
 	UseKeychain yes
 ```
