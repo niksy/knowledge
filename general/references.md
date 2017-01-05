@@ -374,6 +374,7 @@ Some useful reference material on various development topics. Will probably be t
 * [perf.rocks](http://perf.rocks/)
 * [perf-tooling.today](http://www.perf-tooling.today/)
 * [Jankfree](http://jankfree.org/)
+* [Pinboard links](https://pinboard.in/u:niksy/t:performance/)
 
 ### Notes
 
