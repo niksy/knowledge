@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Even Faster Images using HTTP2 and Progressive JPEGs](http://calendar.perfplanet.com/2016/even-faster-images-using-http2-and-progressive-jpegs/)
+
+Multiple progressive or interlaced images render faster on HTTP2 thanks to Multiplexing
+
+---
+
 [RWD Bloat](https://speakerdeck.com/davatron5000/rwd-bloat)
 
 * Throttling is super important since most of the world doesn’t have Google Fiber
