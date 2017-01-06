@@ -332,6 +332,8 @@ Some useful reference material on various development topics. Will probably be t
 * [Service Worke.rs](https://serviceworke.rs/)
 * [PWA resources](https://dev.opera.com/articles/pwa-resources/)
 * [awesome-service-workers](https://github.com/TalAter/awesome-service-workers)
+* [List of PWAs #1](https://outweb.io/)
+* [List of PWAs #2](https://pwa.rocks/)
 
 #### Tools
 
