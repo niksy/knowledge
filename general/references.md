@@ -149,6 +149,8 @@ Some useful reference material on various development topics. Will probably be t
 * [Component code splitting #4](https://tailordev.fr/blog/2016/03/17/loading-dependencies-asynchronously-in-react-components/)
 * [Component code splitting #5](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2#bd8e)
 * [Progressive Web Apps with React.js](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.gf8aiixq8)
+* [Children in JSX](http://krasimirtsonev.com/blog/article/children-in-jsx)
+* [Using `setState` the right way](https://mobile.twitter.com/MoOx/status/817299028908146688)
 
 #### Server-side render
 
