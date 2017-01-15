@@ -71,6 +71,7 @@ Some useful reference material on various development topics. Will probably be t
 * [The Node Way](http://thenodeway.io/)
 * [Build a RESTful API Using Node and Express](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 * [Simple RESTful web app with Express and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
+* [Build your first Node.js microservice](http://mxstbr.blog/2017/01/your-first-node-microservice/)
 
 ### ES6
 
@@ -151,6 +152,8 @@ Some useful reference material on various development topics. Will probably be t
 * [Progressive Web Apps with React.js](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12#.gf8aiixq8)
 * [Children in JSX](http://krasimirtsonev.com/blog/article/children-in-jsx)
 * [Using `setState` the right way](https://mobile.twitter.com/MoOx/status/817299028908146688)
+* [How to Use jQuery Libraries in the React Ecosystem](https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.au9u0vnhf)
+* [PureComponent usage](https://60devs.com/pure-component-in-react.html)
 
 #### Server-side render
 
