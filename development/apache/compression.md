@@ -1,6 +1,6 @@
 # Compression configuration
 
-1. Inside `/etc/apache2/other/httpd-extra.conf` at the bottom add:
+1. Inside `/usr/local/etc/apache2/2.4/other/httpd-extra.conf` at the bottom add:
 
 	```apache
 AddOutputFilterByType DEFLATE application/atom+xml
