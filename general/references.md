@@ -21,6 +21,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Visual cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 * [flex-basis, flex-grow and flex-shrink formula](https://chriswrightdesign.com/experiments/flexbox-adventures/)
 * [How flex-glow and flex-basis works](https://css-tricks.com/flex-grow-is-weird/)
+* [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.oybqyx3k6)
 
 #### Tools
 
