@@ -297,6 +297,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Common gotchas](https://vuejs.org/2016/02/06/common-gotchas/)
 * [Private scope for non-reactive data and methods](https://github.com/vuejs/vue/issues/1988#issuecomment-163013818)
 * [Getting started with Vuex](https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.6neqjftwy)
+* [Intro to Vuex](https://alligator.io/vuejs/intro-to-vuex/)
 
 #### Server-side rendering
 
