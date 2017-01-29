@@ -342,6 +342,7 @@ Some useful reference material on various development topics. Will probably be t
 * [awesome-service-workers](https://github.com/TalAter/awesome-service-workers)
 * [List of PWAs #1](https://outweb.io/)
 * [List of PWAs #2](https://pwa.rocks/)
+* [Webpack PWA](https://github.com/webpack/webpack-pwa)
 
 #### Tools
 
