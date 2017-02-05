@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+https://code.facebook.com/posts/557147474482256
+
+`Cache-Control: […], immutable` improves perf by avoiding 304s on reload in Firefox. Chrome does it by default.
+
+---
+
 [Even Faster Images using HTTP2 and Progressive JPEGs](http://calendar.perfplanet.com/2016/even-faster-images-using-http2-and-progressive-jpegs/)
 
 Multiple progressive or interlaced images render faster on HTTP2 thanks to Multiplexing
