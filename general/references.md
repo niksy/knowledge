@@ -158,6 +158,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Tips from real-life project](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.fpmyrk6n1)
 * [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 * [Optimizing React](https://auth0.com/blog/optimizing-react/)
+* [Life cicle events in React](https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/)
 
 #### Server-side render
 
