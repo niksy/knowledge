@@ -340,6 +340,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Background Sync](https://ponyfoo.com/articles/backgroundsync)
 * [Introduction to Service Workers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [Implementing "Save for Offline"](http://una.im/save-offline/)
+* [Web Push Book](https://web-push-book.gauntface.com/)
 
 #### Resources
 
