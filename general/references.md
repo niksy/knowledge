@@ -156,6 +156,7 @@ Some useful reference material on various development topics. Will probably be t
 * [How to Use jQuery Libraries in the React Ecosystem](https://medium.com/@superKalo/how-to-use-jquery-libraries-in-the-react-ecosystem-7dfeb1aafde0#.au9u0vnhf)
 * [PureComponent usage](https://60devs.com/pure-component-in-react.html)
 * [Tips from real-life project](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.fpmyrk6n1)
+* [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 
 #### Server-side render
 
