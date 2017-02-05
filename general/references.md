@@ -302,6 +302,7 @@ Some useful reference material on various development topics. Will probably be t
 #### Server-side rendering
 
 * [nuxt.js](https://github.com/nuxt/nuxt.js)
+* [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer)
 
 #### Resources
 
