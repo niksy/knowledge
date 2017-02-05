@@ -157,6 +157,7 @@ Some useful reference material on various development topics. Will probably be t
 * [PureComponent usage](https://60devs.com/pure-component-in-react.html)
 * [Tips from real-life project](https://medium.com/bumpers/isnt-our-code-just-the-best-f028a78f33a9#.fpmyrk6n1)
 * [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
+* [Optimizing React](https://auth0.com/blog/optimizing-react/)
 
 #### Server-side render
 
@@ -337,6 +338,7 @@ Some useful reference material on various development topics. Will probably be t
 * [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/)
 * [Background Sync](https://ponyfoo.com/articles/backgroundsync)
 * [Introduction to Service Workers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
+* [Implementing "Save for Offline"](http://una.im/save-offline/)
 
 #### Resources
 
@@ -397,6 +399,7 @@ Some useful reference material on various development topics. Will probably be t
 	* Start out by testing at most five URLs. When you know your site you can start testing more.
 	* First test each URL three times, and check if the metrics are consistent. If not increase the number of runs.
 	* How often you should run your tests depends on how often you deploy and change content in production. Make sure to test as often as you need to catch changes and being able to pinpoint them.
+* `Cache-Control: […], immutable` improves perf by avoiding 304s on reload in Firefox. Chrome does it by default.
 	
 ## SVG
 
