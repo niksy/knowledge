@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Modernizing delivery](https://www.filamentgroup.com/lab/modernizing-delivery.html)
+
+Various H2 tips from Filament Group.
+
+---
+
 https://code.facebook.com/posts/557147474482256
 
 `Cache-Control: […], immutable` improves perf by avoiding 304s on reload in Firefox. Chrome does it by default.
