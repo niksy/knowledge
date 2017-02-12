@@ -4,9 +4,15 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Using HTTP/2 Responsibly: Adapting for Users](http://alistapart.com/article/using-http-2-responsibly-adapting-for-users)
+
+> […] Of course, on HTTP/2 sites, you would take any content that you’d normally inline and use server push to confer the benefits of inlining without actually inlining content.
+
+---
+
 [Modernizing delivery](https://www.filamentgroup.com/lab/modernizing-delivery.html)
 
-Various H2 tips from Filament Group.
+Various HTTP/2 tips from Filament Group.
 
 ---
 
