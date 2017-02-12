@@ -376,6 +376,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Pinboard links on performance](https://pinboard.in/u:niksy/t:performance/)
 * [Fast enough](https://timkadlec.com/2014/01/fast-enough/)
 * [HTTP/2 Server Push and Service Workers: The Perfect Partnership](https://24ways.org/2016/http2-server-push-and-service-workers/)
+* [HTTP/2 Server Push and inline](http://alistapart.com/article/using-http-2-responsibly-adapting-for-users)
 
 ### Tools
 
