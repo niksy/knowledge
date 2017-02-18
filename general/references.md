@@ -73,6 +73,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Build a RESTful API Using Node and Express](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 * [Simple RESTful web app with Express and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
 * [Build your first Node.js microservice](http://mxstbr.blog/2017/01/your-first-node-microservice/)
+* [Node MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
 
 ### ES6
 
