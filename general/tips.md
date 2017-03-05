@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Base64 Encoding & Performance, Part 2: Gathering Data](https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/)
+
+> It kinda just feels like confirming what we already know, but it’s good to have some numbers to look at, and it’s especially important to take note of lower powered connections and devices. Base64 still feels like a huge anti-pattern.
+
+---
+
 [Using HTTP/2 Responsibly: Adapting for Users](http://alistapart.com/article/using-http-2-responsibly-adapting-for-users)
 
 > […] Of course, on HTTP/2 sites, you would take any content that you’d normally inline and use server push to confer the benefits of inlining without actually inlining content.
