@@ -163,6 +163,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Life cicle events in React](https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/)
 * [How does React decide to re-render a component?](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
 * [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.bjorpvceo)
+* [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.ergbk8m8f)
 
 #### Server-side render
 
@@ -295,6 +296,7 @@ Some useful reference material on various development topics. Will probably be t
 
 * [A cartoon guide to Facebook’s Relay](https://code-cartoons.com/a-cartoon-intro-to-facebook-s-relay-part-1-3ec1a127bca5#.nsnmyzoow)
 * [GraphQL](https://medium.com/apollo-stack/the-basics-of-graphql-in-5-links-9e1dc4cac055#.94prjaezy)
+* [GraphQL & React tutorial](https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858#.2eswsccii)
 
 ### Vue.js
 
@@ -354,6 +356,7 @@ Some useful reference material on various development topics. Will probably be t
 * [List of PWAs #1](https://outweb.io/)
 * [List of PWAs #2](https://pwa.rocks/)
 * [Webpack PWA](https://github.com/webpack/webpack-pwa)
+* [PWA Directory](https://pwa-directory.appspot.com/)
 
 #### Tools
 
@@ -382,6 +385,8 @@ Some useful reference material on various development topics. Will probably be t
 * [HTTP/2 Server Push and Service Workers: The Perfect Partnership](https://24ways.org/2016/http2-server-push-and-service-workers/)
 * [HTTP/2 Server Push and inline](http://alistapart.com/article/using-http-2-responsibly-adapting-for-users)
 * [HTTP/2 Server Push Tips](https://responsivedesign.is/articles/configuring-http2-push-wordpress/)
+* [A Link: rel=preload Analysis From the Chrome Data Saver Team](https://medium.com/reloading/a-link-rel-preload-analysis-from-the-chrome-data-saver-team-5edf54b08715#.mjh8zxo7p)
+* [Prefetch & preconnect-dns priority](https://responsivedesign.is/articles/prefetch-preconnect-dns-priority/)
 
 ### Tools
 
