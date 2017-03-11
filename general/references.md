@@ -440,8 +440,6 @@ Some useful reference material on various development topics. Will probably be t
 
 ## Accessibility
 
-### Resources
-
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.sunvvl7wb)
 
 ### Tools
