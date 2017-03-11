@@ -387,6 +387,10 @@ Some useful reference material on various development topics. Will probably be t
 * [HTTP/2 Server Push Tips](https://responsivedesign.is/articles/configuring-http2-push-wordpress/)
 * [A Link: rel=preload Analysis From the Chrome Data Saver Team](https://medium.com/reloading/a-link-rel-preload-analysis-from-the-chrome-data-saver-team-5edf54b08715#.mjh8zxo7p)
 * [Prefetch & preconnect-dns priority](https://responsivedesign.is/articles/prefetch-preconnect-dns-priority/)
+* [Using "dns-prefetch" and "preconnect together #1](https://mobile.twitter.com/artemkholodenko/status/836290998992957440)
+* [Using "dns-prefetch" and "preconnect together #2](https://mobile.twitter.com/Sherbet_Noin/status/732507382643843072)
+* [Using "dns-prefetch" and "preconnect together #3](https://mobile.twitter.com/gloddy/status/627193819453333504)
+* [Using "dns-prefetch" and "preconnect together #4](https://mobile.twitter.com/yoavweiss/status/626389964599742465)
 
 ### Tools
 
@@ -404,6 +408,7 @@ Some useful reference material on various development topics. Will probably be t
 * [perf-tooling.today](http://www.perf-tooling.today/)
 * [Jankfree](http://jankfree.org/)
 * [Pinboard links](https://pinboard.in/u:niksy/t:performance/)
+* [Cheat-sheet for Resource Hints](https://mobile.twitter.com/addyosmani/status/743571393174872064)
 
 ### Notes
 
