@@ -164,6 +164,7 @@ Some useful reference material on various development topics. Will probably be t
 * [How does React decide to re-render a component?](http://lucybain.com/blog/2017/react-js-when-to-rerender/)
 * [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.bjorpvceo)
 * [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.ergbk8m8f)
+* [Context in React applications](http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/)
 
 #### Server-side render
 
@@ -223,6 +224,7 @@ Some useful reference material on various development topics. Will probably be t
 * [code-split-component](https://github.com/ctrlplusb/code-split-component)
 * [React Hot Loader Intro](https://github.com/facebookincubator/create-react-app/issues/1063#issuecomment-261788083)
 * [react-devtools](https://github.com/facebook/react-devtools)
+* [react-loadable](https://github.com/thejameskyle/react-loadable)
 
 #### Notes
 
@@ -357,6 +359,7 @@ Some useful reference material on various development topics. Will probably be t
 * [List of PWAs #2](https://pwa.rocks/)
 * [Webpack PWA](https://github.com/webpack/webpack-pwa)
 * [PWA Directory](https://pwa-directory.appspot.com/)
+* [Various resources](https://github.com/pinterest/service-workers)
 
 #### Tools
 
@@ -504,3 +507,14 @@ Some useful reference material on various development topics. Will probably be t
 * [Front-end design principles](http://clearleft.com/thinks/103)
 * [SOLID CSS](http://blog.millermedeiros.com/solid-css/)
 * [OOCSS](https://github.com/stubbornella/oocss/wiki)
+
+---
+
+## CSS Grid
+
+* https://rachelandrew.co.uk/archives/2017/03/03/learning-css-grid-layout
+* https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/
+* http://tutorialzine.com/2017/03/css-grid-vs-flexbox/
+* https://tympanus.net/codrops/css_reference/grid/
+* http://meyerweb.com/eric/thoughts/2017/03/07/welcome-to-the-grid/
+* https://rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/
