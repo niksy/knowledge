@@ -165,6 +165,7 @@ Some useful reference material on various development topics. Will probably be t
 * [10 React mini-patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.bjorpvceo)
 * [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.ergbk8m8f)
 * [Context in React applications](http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/)
+* [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.7c9cygcbz)
 
 #### Server-side render
 
@@ -309,6 +310,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Private scope for non-reactive data and methods](https://github.com/vuejs/vue/issues/1988#issuecomment-163013818)
 * [Getting started with Vuex](https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.6neqjftwy)
 * [Intro to Vuex](https://alligator.io/vuejs/intro-to-vuex/)
+* [Vue.js Component Style Guide](https://medium.com/tldr-tech/vue-js-component-style-guide-711988d5e94e#.wfda0tasu)
 
 #### Server-side rendering
 
@@ -349,6 +351,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Introduction to Service Workers](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers)
 * [Implementing "Save for Offline"](http://una.im/save-offline/)
 * [Web Push Book](https://web-push-book.gauntface.com/)
+* [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19#.i5rtr4hig)
 
 #### Resources
 
