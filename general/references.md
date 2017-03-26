@@ -166,6 +166,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Testing React Components Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.ergbk8m8f)
 * [Context in React applications](http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/)
 * [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.7c9cygcbz)
+* [Generic onHandle change](https://mobile.twitter.com/apostopher/status/843998603127414784)
 
 #### Server-side render
 
@@ -310,6 +311,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Private scope for non-reactive data and methods](https://github.com/vuejs/vue/issues/1988#issuecomment-163013818)
 * [Getting started with Vuex](https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65#.6neqjftwy)
 * [Intro to Vuex](https://alligator.io/vuejs/intro-to-vuex/)
+* [Intro to Vue.js](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Vue.js Component Style Guide](https://medium.com/tldr-tech/vue-js-component-style-guide-711988d5e94e#.wfda0tasu)
 
 #### Server-side rendering
