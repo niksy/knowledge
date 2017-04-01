@@ -354,6 +354,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Implementing "Save for Offline"](http://una.im/save-offline/)
 * [Web Push Book](https://web-push-book.gauntface.com/)
 * [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19#.i5rtr4hig)
+* [Service Workers Testing](https://hackernoon.com/service-worker-testing-made-easy-9a2d8e9aa50)
 
 #### Resources
 
@@ -399,6 +400,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Using "dns-prefetch" and "preconnect together #2](https://mobile.twitter.com/Sherbet_Noin/status/732507382643843072)
 * [Using "dns-prefetch" and "preconnect together #3](https://mobile.twitter.com/gloddy/status/627193819453333504)
 * [Using "dns-prefetch" and "preconnect together #4](https://mobile.twitter.com/yoavweiss/status/626389964599742465)
+* [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 
 ### Tools
 
@@ -527,3 +529,4 @@ Some useful reference material on various development topics. Will probably be t
 * https://alistapart.com/article/practical-grid
 * http://jensimmons.com/post/feb-27-2017/learn-css-grid
 * https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
+* https://cloudfour.com/thinks/first-css-grid-layout/
