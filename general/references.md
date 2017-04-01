@@ -525,3 +525,5 @@ Some useful reference material on various development topics. Will probably be t
 * https://rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/
 * https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8k89rzqfm
 * https://alistapart.com/article/practical-grid
+* http://jensimmons.com/post/feb-27-2017/learn-css-grid
+* https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
