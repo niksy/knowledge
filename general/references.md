@@ -524,3 +524,4 @@ Some useful reference material on various development topics. Will probably be t
 * http://meyerweb.com/eric/thoughts/2017/03/07/welcome-to-the-grid/
 * https://rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/
 * https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5#.8k89rzqfm
+* https://alistapart.com/article/practical-grid
