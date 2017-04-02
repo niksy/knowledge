@@ -4,6 +4,10 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Designing Front-End Components](https://ponyfoo.com/articles/designing-front-end-components)
+
+---
+
 [Base64 Encoding & Performance, Part 2: Gathering Data](https://csswizardry.com/2017/02/base64-encoding-and-performance-part-2/)
 
 > It kinda just feels like confirming what we already know, but it’s good to have some numbers to look at, and it’s especially important to take note of lower powered connections and devices. Base64 still feels like a huge anti-pattern.
