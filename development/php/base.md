@@ -4,7 +4,7 @@
 
 ```sh
 brew tap homebrew/php
-brew install php56 --with-httpd24
+brew install php56 --with-httpd24 --with-pear
 ```
 
 1. Install PHP extensions and related packages.
@@ -20,7 +20,6 @@ brew install composer
 
 ```sh
 chmod -R ug+w $(brew --prefix php56)/lib/php
-pear config-set php_ini /usr/local/etc/php/5.6/php.ini
 pear config-set auto_discover 1
 pear update-channels
 pear upgrade
