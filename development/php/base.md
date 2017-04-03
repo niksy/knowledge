@@ -29,7 +29,6 @@ pear upgrade
 
 ```sh
 pear install Cache_Lite
-composer global require phing/phing:2.7.0
 ```
 
 1. Inside `/usr/local/etc/apache2/2.4/httpd.conf` add following line in part for module loading (if `php5_module` is already added, remove it and use following line):
