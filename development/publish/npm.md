@@ -15,10 +15,13 @@ After that, run `npm publish` inside project folder.
 
 ## Deprecate package
 
-* https://github.com/npm/npm/issues/10974#issuecomment-169411339
+```sh
+npm deprecate <package-name>@"*" "Deprecation message"
+```
 
 ## References
 
 * https://gist.github.com/coolaj86/1318304
 * http://quickleft.com/blog/creating-and-publishing-a-node-js-module
 * https://github.com/npm/npm/issues/6345
+* https://github.com/npm/npm/issues/10974#issuecomment-169411339
