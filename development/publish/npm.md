@@ -13,6 +13,10 @@ If you’ve change data, run `npm adduser`.
 
 After that, run `npm publish` inside project folder.
 
+## Deprecate package
+
+* https://github.com/npm/npm/issues/10974#issuecomment-169411339
+
 ## References
 
 * https://gist.github.com/coolaj86/1318304
