@@ -538,3 +538,6 @@ Some useful reference material on various development topics. Will probably be t
 * https://cloudfour.com/thinks/first-css-grid-layout/
 * https://css-tricks.com/css-grid-replace-flexbox/
 * http://griddy.io/
+* https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/
+* https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
+* http://codepen.io/anthonydugois/full/RpYBmy/
