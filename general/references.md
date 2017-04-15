@@ -530,3 +530,4 @@ Some useful reference material on various development topics. Will probably be t
 * http://jensimmons.com/post/feb-27-2017/learn-css-grid
 * https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
 * https://cloudfour.com/thinks/first-css-grid-layout/
+* https://cloudfour.com/thinks/first-css-grid-layout/
