@@ -168,6 +168,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.7c9cygcbz)
 * [Generic onHandle change](https://mobile.twitter.com/apostopher/status/843998603127414784)
 * [Handling event values](https://mobile.twitter.com/tylermcginnis33/status/852600086404182016)
+* [Twitter Lite tips](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 
 #### Server-side render
 
