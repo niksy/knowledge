@@ -97,6 +97,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html)
 * [for…in vs for…of](https://bitsofco.de/for-in-vs-for-of/)
 * [The 80/20 Guide to Async/Await in Node.js](http://thecodebarbarian.com/80-20-guide-to-async-await-in-node.js.html)
+* [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
 
 ### Promises
 
