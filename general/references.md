@@ -186,6 +186,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Electrode](http://www.electrode.io/)
 * [SSR #1](https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/)
 * [SSR #2](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
+* [Discussion on rendering whole page on server](https://mobile.twitter.com/sebmarkbage/status/852282380081430528)
 
 #### Testing
 
