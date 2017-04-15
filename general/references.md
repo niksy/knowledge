@@ -402,6 +402,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Using "dns-prefetch" and "preconnect together #3](https://mobile.twitter.com/gloddy/status/627193819453333504)
 * [Using "dns-prefetch" and "preconnect together #4](https://mobile.twitter.com/yoavweiss/status/626389964599742465)
 * [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+* [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 
 ### Tools
 
@@ -532,3 +533,5 @@ Some useful reference material on various development topics. Will probably be t
 * https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
 * https://cloudfour.com/thinks/first-css-grid-layout/
 * https://cloudfour.com/thinks/first-css-grid-layout/
+* https://css-tricks.com/css-grid-replace-flexbox/
+* http://griddy.io/
