@@ -167,6 +167,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Context in React applications](http://javascriptplayground.com/blog/2017/02/context-in-reactjs-applications/)
 * [Functional setState is the future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.7c9cygcbz)
 * [Generic onHandle change](https://mobile.twitter.com/apostopher/status/843998603127414784)
+* [Handling event values](https://mobile.twitter.com/tylermcginnis33/status/852600086404182016)
 
 #### Server-side render
 
