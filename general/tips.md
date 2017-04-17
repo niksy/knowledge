@@ -4,6 +4,10 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[How We Track Pageviews Is All Wrong](https://philipwalton.com/articles/how-we-track-pageviews-is-all-wrong/)
+
+---
+
 [Designing Front-End Components](https://ponyfoo.com/articles/designing-front-end-components)
 
 ---
