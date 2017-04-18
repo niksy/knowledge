@@ -24,20 +24,20 @@ If you want generic passwords (e.g. rarely accessible HTTP basic auth credential
 To add password, there are several ways:
 
 1. Using CLI: `security add-generic-password -s Foobar -a foo -w bar -T ""`
-  * `-s`: name of the service/account you want to identify in Keychain
-  * `-a`: username of service/account
-  * `-w`: password of service/account
-  * `-T ""`: tells Keychain to always ask for permission to access data, even for apps that created Keychain entry
-  * **Unfortunately, using this approach you can’t set to ask for user password when accessing data**
+	* `-s`: name of the service/account you want to identify in Keychain
+	* `-a`: username of service/account
+	* `-w`: password of service/account
+	* `-T ""`: tells Keychain to always ask for permission to access data, even for apps that created Keychain entry
+	* **Unfortunately, using this approach you can’t set to ask for user password when accessing data**
   
 1. Using Keychain app:
-  1. File → New Password Item
-  1. Enter necessary information
-  1. Double-click on new Keychain entry
-  1. Select "Access Control" tab
-  1. Activate "Ask for Keychain password" checkbox
-  1. Enter user password
-  1. Check again to confirm that checkbox is checked (repeat two times)
+	1. File → New Password Item
+	1. Enter necessary information
+	1. Double-click on new Keychain entry
+	1. Select "Access Control" tab
+	1. Activate "Ask for Keychain password" checkbox
+	1. Enter user password
+	1. Check again to confirm that checkbox is checked (repeat two times)
 
 ### Accessing generic passwords from Keychain
 
