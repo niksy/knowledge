@@ -23,11 +23,11 @@ Check generated key and connection status with host: `ssh -T [user]@[host]`
 1. After that, inside `~./ssh/` create `config` file and fill it with following data which will connect your identity with host:
 
 	```
-Host example.com
-HostName example.com
-User example
-IdentityFile ~/.ssh/id_rsa_example
-```
+	Host example.com
+	HostName example.com
+	User example
+	IdentityFile ~/.ssh/id_rsa_example
+	```
 
 1. After that, [check generated key](#check-generated-key).
 
