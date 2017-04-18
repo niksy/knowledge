@@ -11,7 +11,6 @@ For macOS 10.9+. **This works for me, but I can’t guarantee it will work for y
 	* iTunes
 	* GitHub SSH
 1. Backup files
-	* LCC: `~/Library/Preferences/com.Logitech.Control Center.Assignments.registry`
 	* Moom PLIST
 	* Transmission PLIST
 1. Delete mail accounts
