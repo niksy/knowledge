@@ -5,14 +5,14 @@
 1. Geneate SSL certificate. Easiest way is to use `self-signed-cert-generator` function from [my dotfiles](https://github.com/niksy/dotfiles).
 
 	```sh
-self-signed-cert-generator example.loc
-```
+	self-signed-cert-generator example.loc
+	```
 
 1. Inside `/usr/local/etc/apache2/2.4/other/httpd-extra.conf` at the bottom add following content:
 
 	```apache
-Listen 443
-```
+	Listen 443
+	```
 
 1. After that, inside `/usr/local/etc/apache2/2.4/sites-available/` folder you can create new configuration file for SSL site, or if SSL site is part of existing one, add at the bottom of existing configuration file.
 
