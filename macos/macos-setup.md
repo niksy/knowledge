@@ -43,6 +43,7 @@ After installation of OS is complete, follow next instructions. They’re not "s
 1. Close current shell and open new one so Terminal can accept new changes :)
 
 1. Install [Homebrew](http://brew.sh), following these [instructions](http://brew.sh/#install).
+	* **Important**: Remove `HOMEBREW_CASK_OPTS` from `.extra` and `.exports` if they contain `--appdir` or `--caskroom` arguments; fresh installation should use default Cask behavior
 
 1. Install Homebrew packages and all other packages.
 
