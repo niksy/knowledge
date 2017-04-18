@@ -27,18 +27,18 @@ After installation of OS is complete, follow next instructions. They’re not "s
 1. Install XCode CLI tools.
 
 	```sh
-xcode-select --install
-```
+	xcode-select --install
+	```
 
 1. Get and run [dotfiles](https://github.com/niksy/dotfiles) setup.
 
 	```sh
-cd ~
-mkdir .dotfiles
-cd .dotfiles
-git clone https://github.com/niksy/dotfiles.git .
-sh dotfiles link
-```
+	cd ~
+	mkdir .dotfiles
+	cd .dotfiles
+	git clone https://github.com/niksy/dotfiles.git .
+	sh dotfiles link
+	```
 
 1. Close current shell and open new one so Terminal can accept new changes :)
 
@@ -47,59 +47,59 @@ sh dotfiles link
 1. Install Homebrew packages and all other packages.
 
 	```sh
-cd ~
-source .dotfiles/.brew
-source .dotfiles/.packages
-```
+	cd ~
+	source .dotfiles/.brew
+	source .dotfiles/.packages
+	```
 
 1. Add config data to `.extra`.
 
 	```sh
-cd ~
-touch .extra
-echo 'export DOTFILES_COMPUTER_NAME="_COMPUTERNAME_";' >> .extra
-```
+	cd ~
+	touch .extra
+	echo 'export DOTFILES_COMPUTER_NAME="_COMPUTERNAME_";' >> .extra
+	```
 
 1. Add Git config data to `.gitconfig_extra`.
 
 	```sh
-cd ~
-touch .gitconfig_extra
-git config --file .gitconfig_extra user.name "_NAME_"
-git config --file .gitconfig_extra user.email "_EMAIL_"
-```
+	cd ~
+	touch .gitconfig_extra
+	git config --file .gitconfig_extra user.name "_NAME_"
+	git config --file .gitconfig_extra user.email "_EMAIL_"
+	```
 
 1. Set Terminal profile to `~/.dotfiles/.init/niksy.terminal` and set it as default profile.
 
 1. Run `.osx`. **Don’t forget to set proper password when asked for sudo permissions!**
 
 	```sh
-cd ~
-source .dotfiles/.osx
-```
+	cd ~
+	source .dotfiles/.osx
+	```
 
 1. Run `.appconfig_extra`.
 
 	```sh
-cd ~
-source .dotfiles/.appconfig_extra
-```
+	cd ~
+	source .dotfiles/.appconfig_extra
+	```
 
 1. Set SSH keys, following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac). These instructions will generate key for GitHub.
 
 	```sh
-cd ~/.ssh
-ssh-keygen -t rsa -C "_EMAIL_"
-pbcopy < ~/.ssh/id_rsa_github.pub
-ssh -T git@github.com
-```
+	cd ~/.ssh
+	ssh-keygen -t rsa -C "_EMAIL_"
+	pbcopy < ~/.ssh/id_rsa_github.pub
+	ssh -T git@github.com
+	```
 
 1. Remove PDF from Downloads folder.
 
 	```sh
-cd ~/Downloads
-rm -rf "About Downloads.lpdf"
-```
+	cd ~/Downloads
+	rm -rf "About Downloads.lpdf"
+	```
 
 ### Manual procedures
 
