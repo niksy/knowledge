@@ -28,7 +28,7 @@ Web browsers, Google Chrome in particular, are very aggresive in terms of web se
 
 1. [Add certificate to your virtual host configuration](#standard-ssl-virtual-host-configuration).
 
-1. Add certificate to Keychain. This requires little GUI action. I suggest you follow these [instructions](http://www.andrewconnell.com/blog/setup-self-signed-certificates-trusting-them-on-os-x#add-the-certificate-as-a-trusted-root-authority).
+1. Add certificate to Keychain by opening `.crt` file in Keychain app. This requires little GUI action. I suggest you follow these [instructions](http://www.andrewconnell.com/blog/setup-self-signed-certificates-trusting-them-on-os-x#add-the-certificate-as-a-trusted-root-authority).
 
 1. Repeat for every subsite on the same domain (e.g. if you have subsite foo.example.loc, you need to create separate SSL configuration).
 
