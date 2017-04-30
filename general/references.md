@@ -299,6 +299,7 @@ Some useful reference material on various development topics. Will probably be t
 ### MobX
 
 * [MobX](https://mobxjs.github.io/mobx/index.html)
+* [Intro](https://code.tutsplus.com/articles/new-course-react-state-management-with-mobx--cms-28690)
 
 ### Relay
 
@@ -535,9 +536,21 @@ Some useful reference material on various development topics. Will probably be t
 * http://jensimmons.com/post/feb-27-2017/learn-css-grid
 * https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
 * https://cloudfour.com/thinks/first-css-grid-layout/
-* https://cloudfour.com/thinks/first-css-grid-layout/
 * https://css-tricks.com/css-grid-replace-flexbox/
 * http://griddy.io/
 * https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/
 * https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
 * http://codepen.io/anthonydugois/full/RpYBmy/
+* https://bocoup.com/blog/css-grid-learning-new-layout
+* https://www.chenhuijing.com/blog/css-grid-flexbox-combo/#🎮
+* https://css-tricks.com/building-css-grid-overlay/
+* https://developers.google.com/web/updates/2017/01/css-grid
+* https://www.mozilla.org/en-US/developer/css-grid/
+* https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/
+* https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
+* https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/
+* http://meyerweb.com/eric/thoughts/2017/03/08/grid-inspection/
+* https://rachelandrew.co.uk/archives/2017/01/18/css-grid-one-layout-method-not-the-only-layout-method
+* https://bitsofco.de/css-grid-terminology/
+* https://tympanus.net/codrops/css_reference/grid/
+* https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
