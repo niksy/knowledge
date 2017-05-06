@@ -176,4 +176,3 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Remove toolbar icon
 	* Plex
 		* System Preferences → Energy Saver → Computer Sleep: Never
-		* Wake for network access
