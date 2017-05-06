@@ -174,3 +174,6 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Use black and white menu bar icons (check)
 		* Start Dropbox on system startup (uncheck)
 		* Remove toolbar icon
+	* Plex
+		* System Preferences → Energy Saver → Computer Sleep: Never
+		* Wake for network access
