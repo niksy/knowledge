@@ -74,6 +74,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Simple RESTful web app with Express and MongoDB](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
 * [Build your first Node.js microservice](http://mxstbr.blog/2017/01/your-first-node-microservice/)
 * [Node MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
+* [Learn Node by Wes Bos](https://learnnode.com/)
 
 ### ES6
 
@@ -372,6 +373,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Webpack PWA](https://github.com/webpack/webpack-pwa)
 * [PWA Directory](https://pwa-directory.appspot.com/)
 * [Various resources](https://github.com/pinterest/service-workers)
+* [PWA Stats](https://www.pwastats.com/)
 
 #### Tools
 
