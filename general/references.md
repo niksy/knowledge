@@ -172,6 +172,8 @@ Some useful reference material on various development topics. Will probably be t
 * [Generic onHandle change](https://mobile.twitter.com/apostopher/status/843998603127414784)
 * [Handling event values](https://mobile.twitter.com/tylermcginnis33/status/852600086404182016)
 * [Twitter Lite tips](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+* [Leveraging code-splitting in React Apps](https://pusher.com/sessions/meetup/viennajs/leveraging-code-splitting-in-react-apps)
+* [React Forms: Using Refs](https://css-tricks.com/react-forms-using-refs/)
 
 #### Server-side render
 
@@ -320,6 +322,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Intro to Vuex](https://alligator.io/vuejs/intro-to-vuex/)
 * [Intro to Vue.js](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Vue.js Component Style Guide](https://medium.com/tldr-tech/vue-js-component-style-guide-711988d5e94e#.wfda0tasu)
+* [How To (Safely) Use A jQuery Plugin With Vue.js](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/)
 
 #### Server-side rendering
 
