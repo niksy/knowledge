@@ -561,3 +561,5 @@ Some useful reference material on various development topics. Will probably be t
 * https://tympanus.net/codrops/css_reference/grid/
 * https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
 * http://cssgridgarden.com/
+* https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/
+* https://rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/
