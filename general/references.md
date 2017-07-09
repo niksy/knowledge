@@ -563,3 +563,7 @@ Some useful reference material on various development topics. Will probably be t
 * http://cssgridgarden.com/
 * https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/
 * https://rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/
+
+## TypeScript
+
+* https://redditblog.com/2017/06/30/why-we-chose-typescript/
