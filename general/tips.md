@@ -4,7 +4,7 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
-[Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/)
+[Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/) + [Accessibility feedback from Twitter](https://hugogiraudel.com/2017/07/02/accessibility-feedback/)
 
 ---
 
