@@ -4,6 +4,17 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Web accessibility thoughts by Hugo Giraudel](https://storify.com/gnclmorais/hugo-giraudel-s)
+
+Some highlights:
+
+* https://mobile.twitter.com/HugoGiraudel/status/877095614491893760
+* https://mobile.twitter.com/HugoGiraudel/status/877092934071590912
+* https://mobile.twitter.com/HugoGiraudel/status/877079586412138496
+* https://mobile.twitter.com/HugoGiraudel/status/877122839874338818
+
+---
+
 [Accessibility according to actual people with disabilities](https://axesslab.com/accessibility-according-to-pwd/) + [Accessibility feedback from Twitter](https://hugogiraudel.com/2017/07/02/accessibility-feedback/)
 
 ---
