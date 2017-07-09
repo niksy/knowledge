@@ -174,6 +174,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Twitter Lite tips](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 * [Leveraging code-splitting in React Apps](https://pusher.com/sessions/meetup/viennajs/leveraging-code-splitting-in-react-apps)
 * [React Forms: Using Refs](https://css-tricks.com/react-forms-using-refs/)
+* [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
 
 #### Server-side render
 
