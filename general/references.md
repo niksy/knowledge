@@ -414,6 +414,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Using "dns-prefetch" and "preconnect together #4](https://mobile.twitter.com/yoavweiss/status/626389964599742465)
 * [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 * [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
+* [The Critical Request](https://css-tricks.com/the-critical-request/)
 
 ### Tools
 
