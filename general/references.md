@@ -567,6 +567,10 @@ Some useful reference material on various development topics. Will probably be t
 * https://rachelandrew.co.uk/archives/2017/06/01/breaking-out-with-css-grid-explained/
 * https://rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/
 * https://www.smashingmagazine.com/2017/06/building-production-ready-css-grid-layout/
+* https://css-tricks.com/collection-interesting-facts-css-grid-layout/?mc_cid=b6097b4c0c&mc_eid=1cf5929030
+* https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/?mc_cid=b6097b4c0c&mc_eid=1cf5929030
+* https://www.rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/
+* https://github.com/rachelandrew/gridbugs
 
 ## TypeScript
 
@@ -575,3 +579,8 @@ Some useful reference material on various development topics. Will probably be t
 ## Vue, additional
 
 * https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs
+* https://alligator.io/vuejs/additional-jsx-transforms
+
+## Node
+
+* http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
