@@ -571,3 +571,7 @@ Some useful reference material on various development topics. Will probably be t
 ## TypeScript
 
 * https://redditblog.com/2017/06/30/why-we-chose-typescript/
+
+## Vue, additional
+
+* https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs
