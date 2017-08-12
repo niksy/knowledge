@@ -175,6 +175,9 @@ Some useful reference material on various development topics. Will probably be t
 * [Leveraging code-splitting in React Apps](https://pusher.com/sessions/meetup/viennajs/leveraging-code-splitting-in-react-apps)
 * [React Forms: Using Refs](https://css-tricks.com/react-forms-using-refs/)
 * [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
+* [Understanding the React Component Lifecycle](http://busypeoples.github.io/post/react-component-lifecycle/)
+* [Optimizing React Rendering](https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02)
+* [Simple explanation of Higher-Order Components (HOC)](http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/)
 
 #### Server-side render
 
@@ -415,6 +418,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 * [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 * [The Critical Request](https://css-tricks.com/the-critical-request/)
+* [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
 
 ### Tools
 
@@ -571,16 +575,28 @@ Some useful reference material on various development topics. Will probably be t
 * https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/?mc_cid=b6097b4c0c&mc_eid=1cf5929030
 * https://www.rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/
 * https://github.com/rachelandrew/gridbugs
+* https://www.rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/
 
 ## TypeScript
 
 * https://redditblog.com/2017/06/30/why-we-chose-typescript/
 
-## Vue, additional
+## Vue
 
 * https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs
 * https://alligator.io/vuejs/additional-jsx-transforms
+* https://github.com/pablohpsilva/vuejs-component-style-guide
+* https://vuejsdevelopers.com/2017/06/11/vue-js-extending-components/
+* https://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/
+* https://vuejsdevelopers.com/2017/07/31/vue-component-publish-npm/
+* https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/
+* https://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/
 
 ## Node
 
 * http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
+
+## React
+
+* https://css-tricks.com/server-side-react-rendering/
+* http://www.react.express/
