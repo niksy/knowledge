@@ -579,6 +579,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://github.com/rachelandrew/gridbugs
 * https://www.rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/
 * https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks
+* https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/
 
 ## TypeScript
 
