@@ -600,6 +600,8 @@ Some useful reference material on various development topics. Will probably be t
 * https://vuejsdevelopers.com/2017/07/31/vue-component-publish-npm/
 * https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/
 * https://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/
+* https://docs.gitlab.com/ee/development/fe_guide/vue.html
+* https://github.com/vuejs/awesome-vue
 
 ## Node
 
