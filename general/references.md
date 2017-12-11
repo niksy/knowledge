@@ -602,6 +602,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://vuejsdevelopers.com/2017/07/08/vue-js-3-ways-code-splitting-webpack/
 * https://docs.gitlab.com/ee/development/fe_guide/vue.html
 * https://github.com/vuejs/awesome-vue
+* https://vuejs.org/v2/style-guide/
 
 ## Node
 
@@ -611,3 +612,4 @@ Some useful reference material on various development topics. Will probably be t
 
 * https://css-tricks.com/server-side-react-rendering/
 * http://www.react.express/
+* https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
