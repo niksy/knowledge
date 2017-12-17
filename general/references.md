@@ -586,6 +586,11 @@ Some useful reference material on various development topics. Will probably be t
 * https://alistapart.com/article/the-story-of-css-grid-from-its-creators
 * https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/
 * https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/
+* https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/
+* https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/
+* http://alistapart.com/article/the-story-of-css-grid-from-its-creators
+* https://aerolab.co/blog/flexbox-grids/
+* https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/
 
 ## TypeScript
 
