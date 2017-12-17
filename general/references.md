@@ -585,6 +585,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://rachelandrew.co.uk/archives/2017/05/24/a-very-good-time-to-understand-css-layout/
 * https://alistapart.com/article/the-story-of-css-grid-from-its-creators
 * https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/
+* https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/
 
 ## TypeScript
 
