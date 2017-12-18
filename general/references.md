@@ -371,6 +371,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Web Push Book](https://web-push-book.gauntface.com/)
 * [Testing Service Workers](https://medium.com/dev-channel/testing-service-workers-318d7b016b19#.i5rtr4hig)
 * [Service Workers Testing](https://hackernoon.com/service-worker-testing-made-easy-9a2d8e9aa50)
+* [Refresh button](https://redfin.engineering/service-workers-break-the-browsers-refresh-button-by-default-here-s-why-56f9417694)
 
 #### Resources
 
