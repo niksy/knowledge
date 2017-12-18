@@ -4,6 +4,10 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Use cases for event debouncing and throttling](https://twitter.com/simevidas/status/932617814682324992)
+
+---
+
 [Web accessibility thoughts by Hugo Giraudel](https://storify.com/gnclmorais/hugo-giraudel-s)
 
 Some highlights:
