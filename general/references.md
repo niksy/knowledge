@@ -102,6 +102,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
 * [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
 * [Object destructuring (*) works for Arrays](https://mobile.twitter.com/rauschma/status/932291053633359872)
+* [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 
 ### Promises
 
