@@ -107,6 +107,9 @@ Some settings can’t be set automatically so we have to set them manually.
 
 1. Set global settings
 	* System Preferences → General → Recent items: 5
+	* System Preferences → Displays → Night Shift
+	    * Schedule: Sunset to Sunrise
+	    * Color Temperature: Između "Less Warm" i srednje vrijednosti
 1. Menubar
 	* Turn off Bluetooth
 	* Remove icons for Bluetooth and Time Machine
