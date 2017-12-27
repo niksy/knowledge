@@ -1,6 +1,6 @@
 # macOS setup
 
-For macOS 10.9+. **This works for me, but I can’t guarantee it will work for you.** Still, you can see if you can change or modify your setup procedure with these instructions. Contributions welcome :).
+For macOS 10.13+. **This works for me, but I can’t guarantee it will work for you.** Still, you can see if you can change or modify your setup procedure with these instructions. Contributions welcome :).
 
 ## Backup old system
 
