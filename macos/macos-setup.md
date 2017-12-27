@@ -133,10 +133,6 @@ Some settings can’t be set automatically so we have to set them manually.
 1. Set macOS apps
 	* Messages
 		* Show status in menubar (check)
-		* Preferences → Viewing (for "My" and "Sender")
-		  * Background color: Automatic
-		  * Font color: Black
-		  * Font: Helvetica 12
 	* Contacts  
 		* Set "Google" as default account
 	* Calendar  
