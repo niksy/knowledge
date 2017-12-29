@@ -110,7 +110,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → Displays → Night Shift
 	    * Schedule: Sunset to Sunrise
 	    * Manual: Turn On Until Sunrise (check)
-	    * Color Temperature: Između "Less Warm" i srednje vrijednosti
+	    * Color Temperature: Between "Less Warm" and middle value
 1. Menubar
 	* Turn off Bluetooth
 	* Remove icons for Bluetooth and Time Machine
