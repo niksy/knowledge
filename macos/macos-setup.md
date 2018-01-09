@@ -111,6 +111,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	    * Schedule: Sunset to Sunrise
 	    * Manual: Turn On Until Sunrise (check)
 	    * Color Temperature: Between "Less Warm" and middle value
+	* System Preferences → Desktop & Screen Saver → Desktop → Solid Colors (Solid Aqua Dark Blue)
 1. Menubar
 	* Turn off Bluetooth
 	* Remove icons for Bluetooth and Time Machine
