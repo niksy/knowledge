@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Third-Party Scripts](http://trentwalton.com/notes/2018/01/04/third-party-scripts.html)
+
+> My latest realization is that delivering a performant, accessible, responsive, scalable website isn’t enough: I also need to consider the impact of third-party scripts. No matter how solid I think my prototype is, it doesn’t absolve me from paying attention to what happens during implementation, specifically when it comes to the addition of these third-party scripts. I now need to develop a comprehensive understanding of how popular third-party services (and their scripts) impact the quality of a website as it relates to the site owner and, of course, the user.
+
+---
+
 [Use cases for event debouncing and throttling](https://twitter.com/simevidas/status/932617814682324992)
 
 ---
