@@ -626,6 +626,7 @@ Some useful reference material on various development topics. Will probably be t
 ## JavaScript
 
 * https://davidwalsh.name/intersection-observers
+* https://molily.de/robust-javascript/
 
 ## Testing
 
