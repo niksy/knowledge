@@ -9,6 +9,10 @@ Some useful reference material on various development topics. Will probably be t
 
 ## CSS
 
+### General
+
+* [Font display explanation](https://font-display.glitch.me/)
+
 ### Flexbox
 
 * [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
