@@ -322,7 +322,7 @@ Some useful reference material on various development topics. Will probably be t
 * [GraphQL](https://medium.com/apollo-stack/the-basics-of-graphql-in-5-links-9e1dc4cac055#.94prjaezy)
 * [GraphQL & React tutorial](https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858#.2eswsccii)
 
-### Vue.js
+### Vue
 
 * [Vue](https://vuejs.org/)
 * [Vuex](http://vuex.vuejs.org/en/)
@@ -352,6 +352,7 @@ Some useful reference material on various development topics. Will probably be t
 * When defining a component, data must be declared as a function that returns the initial data object, because there will be many instances created using the same definition.
 * Prefer top Vue component instance and every component exported as object instead of `Vue.component` or `Vue.extend`
 * Unlike React, Vue doesn’t have global event handle which delegates events to every component. Instead, [it attaches event ot each component](https://forum.vuejs.org/t/is-event-delegation-necessary/3701). This can have performance on really large lists of data (but probably isn’t that bad).
+* Vue parent-child communication with events is constrained to direct parent-child relationship, so emmitted event from child can only be listened on direct parent of that child. If you want to listen to event from child in upper parents, you need to re-emmit that event.
 
 ### Service Workers
 
