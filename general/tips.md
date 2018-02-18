@@ -4,6 +4,18 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Is text sizing dead?](https://alastairc.ac/2017/11/is-text-sizing-dead/)
+
+> Myth: Pixels units for text are bad for accessibility
+>
+> […] Technically it does still prevent text-sizing in some browsers (e.g. Internet Explorer) but the main issue is that text-sizing overall has very limited value. Not because re-sizing text is of limited value, but because doing so on 90% of websites will break before you get to 200% with overlapping-text or falling floats.
+>
+> […] It is possible to deal with text-sizing with EMs and media queries, but then you have to size everything in EMs, including images and layout, which then mirrors zooming. At that point, you might as well use pixels and rely on zoom.
+>
+> The Guardian is a good example of that approach, everything is sized in EMs so text-sizing works exactly the same as zoom.
+
+---
+
 [Third-Party Scripts](http://trentwalton.com/notes/2018/01/04/third-party-scripts.html)
 
 > My latest realization is that delivering a performant, accessible, responsive, scalable website isn’t enough: I also need to consider the impact of third-party scripts. No matter how solid I think my prototype is, it doesn’t absolve me from paying attention to what happens during implementation, specifically when it comes to the addition of these third-party scripts. I now need to develop a comprehensive understanding of how popular third-party services (and their scripts) impact the quality of a website as it relates to the site owner and, of course, the user.
