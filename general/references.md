@@ -617,6 +617,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://docs.gitlab.com/ee/development/fe_guide/vue.html
 * https://github.com/vuejs/awesome-vue
 * https://vuejs.org/v2/style-guide/
+* https://m.serversideup.net/your-guide-to-uploading-files-with-vuejs-and-axios-184602a2086a
 
 ## Node
 
