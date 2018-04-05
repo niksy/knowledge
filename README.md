@@ -13,8 +13,23 @@ Guides, instructions, tips. Just general development knowledge.
 * macOS
 	* [General](macos/general.md)
 	* [Setup](macos/setup.md)
-* [Development setup](development/README.md)
-* [Sublime Text (3) setup](https://github.com/niksy/st-settings/blob/master/README.md)
+* Development setup
+	* [Apache configuration](development/apache/README.md)
+	* [PHP configuration](development/php/README.md)
+	* [Testing](development/testing/README.md)
+	* [Virtual machines](development/vm.md)
+	* [SSH keys](development/ssh-keys.md)
+	* [NPM package management](development/npm.md)
+	* [Docker](development/docker.md)
+	* [SSL configuration](development/ssl.md)
+	* [Virtual host for testing on mobile devices](development/vhost-mobile-devices.md)
+	* [Proxy browser testing](development/proxy-browser-testing.md)
+	* [Static IP address](development/static-ip-address.md)
+	* [Remote debug](development/remote-debug.md)
+	* [Standalone Selenium server](development/selenium-standalone.md)
+	* [Standalone Selenium server, Windows](development/selenium-standalone-windows.md)
+	* [Older browsers](development/older-browsers.md)
+	* [Sublime Text](https://github.com/niksy/st-settings/blob/master/README.md)
 
 ## License
 

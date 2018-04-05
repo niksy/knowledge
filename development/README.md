@@ -5,6 +5,6 @@
 * [Testing](testing/README.md)
 * [Virtual machines](vm.md)
 * [SSH keys](ssh-keys.md)
-* [Mail server](mail-server.md)
-* [NPM package publishing](publish/npm.md)
+* [NPM package management](npm.md)
 * [Docker](docker.md)
+* [SSL configuration](ssl.md)
