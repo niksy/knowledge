@@ -13,6 +13,7 @@ For macOS 10.13+. **This works for me, but I can’t guarantee it will work for 
 1. Backup files
 	* Moom PLIST
 	* Transmission PLIST
+	* Rest PLIST
 1. Delete mail accounts
 
 ## Setup new system
@@ -165,6 +166,8 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Launch automatically on login
 	* Transmission
 		* c/p PLIST and `defaults read org.m0k.transmission`
+	* Rest
+		* c/p PLIST and `defaults read dangelov.Rest-Lite`
 	* Sublime Text 2/3
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
