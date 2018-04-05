@@ -1,6 +1,6 @@
 # General macOS tips
 
-## Recacache application preferences
+## Recache application preferences
 
 In recent versions, macOS aggresively caches preferences (i.e. plist files) for applications. To recache application preferences, use following CLI command:
 
