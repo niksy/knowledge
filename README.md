@@ -10,7 +10,6 @@ Guides, instructions, tips. Just general development knowledge.
 * [Development tips](development-tips/README.md)
 * [Photoshop setup](photoshop/README.md)
 * [Sublime Text (3) setup](https://github.com/niksy/st-settings/blob/master/README.md)
-* [Set "Projects" folder icon](projects-folder-icon/README.md)
 
 ## License
 
