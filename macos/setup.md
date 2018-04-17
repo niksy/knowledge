@@ -22,7 +22,7 @@ After installation of OS is complete, follow next instructions. They’re not "s
 
 1. Check for software updates via Mac App Store. It’s best first to update all the crucial parts of OS before continuing.
 
-1. [Check if `/usr/local` has proper permissions (or does it even exists)](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md).
+1. [Check if `/usr/local` has proper permissions (or does it even exists)](https://github.com/inglesp/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md).
 
 1. Install XCode CLI tools.
 
