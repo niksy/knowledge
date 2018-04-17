@@ -81,14 +81,20 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	source .dotfiles/.macos_extra
 	```
 
-1. Set SSH keys, following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac). These instructions will generate key for GitHub.
+1. Create SSH config.
 
 	```sh
 	mkdir .ssh
 	cd ~/.ssh
-	ssh-keygen -t rsa -C "_EMAIL_"
 	touch config
 	# Add `Host *` and `Host github.com` information…
+	```
+
+1. Set SSH keys, following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac). These instructions will generate key for GitHub.
+
+	```sh
+	cd ~/.ssh
+	ssh-keygen -t rsa -C "_EMAIL_"
 	pbcopy < ~/.ssh/id_rsa_github.pub
 	# Add to github.com settings…
 	ssh -T git@github.com
