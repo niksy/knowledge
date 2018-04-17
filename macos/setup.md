@@ -128,8 +128,6 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Add Messages to login items and activate checkbox to hide it while turning OS on
 		* Remove "iTunesHelper" item
 		* Disable Guest user
-	* System Preferences → Keyboard → Text
-		* Set spelling for "Automatic by Language"
 	* System Preferences → Keyboard → Shortcuts → Keyboard
 		* Move focus to next window == ⌘“
 1. Set macOS apps
