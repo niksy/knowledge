@@ -87,10 +87,9 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	mkdir .ssh
 	cd ~/.ssh
 	touch config
-	echo "Host *" >> config
-	echo "	AddKeysToAgent yes" >> config
-	echo "	UseKeychain yes" >> config
 	```
+
+1. [Follow instructions on proper SSH config usage under macOS](https://github.com/niksy/knowledge/blob/master/development/ssh-keys.md#use-keychain-on-macos-1012)
 
 1. Set SSH keys, optionally following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac). These instructions will generate key for GitHub.
 
