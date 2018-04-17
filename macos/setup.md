@@ -121,10 +121,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → iCloud
 	* System Preferences → Internet Accounts
 	* System Preferences → Users & Groups
-		* Set account
-			* Avatar
-			* Apple ID
-			* Contacts Card
 		* Add Messages to login items and activate checkbox to hide it while turning OS on
 		* Remove "iTunesHelper" item
 		* Disable Guest user
@@ -152,7 +148,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Add Movies and place below Downloads
 	* Remove Tags
 	* Remove CDs, DVDs, iPods
-	* Remove Creative Cloud Files
 1. Set 3rd party apps
 	* Unarchiver
 		* Select all types
