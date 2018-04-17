@@ -126,6 +126,9 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Disable Guest user
 	* System Preferences → Keyboard → Shortcuts → Keyboard
 		* Move focus to next window == ⌘“
+	* Sound
+		* Alert sound: Submarine
+		* Pay feedback when volume is changed (check)
 1. Set macOS apps
 	* Messages
 		* Show status in menubar (check)
