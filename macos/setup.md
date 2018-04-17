@@ -129,6 +129,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Sound
 		* Alert sound: Submarine
 		* Pay feedback when volume is changed (check)
+		* Show volume in menubar (check)
 1. Set macOS apps
 	* Messages
 		* Show status in menubar (check)
