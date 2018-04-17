@@ -90,13 +90,6 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	ssh -T git@github.com
 	```
 
-1. Remove PDF from Downloads folder.
-
-	```sh
-	cd ~/Downloads
-	rm -rf "About Downloads.lpdf"
-	```
-
 ### Manual procedures
 
 Some settings can’t be set automatically so we have to set them manually.
