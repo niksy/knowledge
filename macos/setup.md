@@ -143,6 +143,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Set "Ivan Nikolić" as default calendar
 	* Finder
 		* Remove icons from toolbar
+		* Open your user folder and then: View → Show View Options → Show Library Folder (check)
 	* Dock
 		* Remove icons from dock
 	* Mail
