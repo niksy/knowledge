@@ -138,7 +138,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Calendar  
 		* Set "Ivan Nikolić" as default calendar
 	* Finder
-		* Renove icons from toolbar
+		* Remove icons from toolbar
 	* Dock
 		* Remove icons from dock
 	* Mail
