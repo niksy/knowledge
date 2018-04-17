@@ -150,7 +150,6 @@ Some settings can’t be set automatically so we have to set them manually.
 1. Finder sidebar
 	* Add Home and place at top
 	* Add Movies and place below Downloads
-	* Remove All My Files
 	* Remove Tags
 	* Remove CDs, DVDs, iPods
 	* Remove Creative Cloud Files
