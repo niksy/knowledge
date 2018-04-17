@@ -19,6 +19,7 @@ Guides, instructions, tips. Just general development knowledge.
 	* [Testing](development/testing/README.md)
 	* [Virtual machines](development/vm.md)
 	* [SSH keys](development/ssh-keys.md)
+	* [Git](development/git.md)
 	* [NPM package management](development/npm.md)
 	* [Docker](development/docker.md)
 	* [SSL configuration](development/ssl.md)
