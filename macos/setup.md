@@ -157,7 +157,6 @@ Some settings can’t be set automatically so we have to set them manually.
 1. Set 3rd party apps
 	* Unarchiver
 		* Select all types
-		* Extract to same folder
 	* Moom
 		* c/p PLIST and `defaults read com.manytricks.Moom`
 		* Add licence
