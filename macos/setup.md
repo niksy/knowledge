@@ -86,11 +86,9 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	```sh
 	mkdir .ssh
 	cd ~/.ssh
-	ssh-keygen -t rsa -b 4096 -C "_EMAIL_"
-	eval "$(ssh-agent -s)"
+	ssh-keygen -t rsa -C "_EMAIL_"
 	touch config
 	# Add `Host *` and `Host github.com` information…
-	ssh-add -K ~/.ssh/id_rsa_github
 	pbcopy < ~/.ssh/id_rsa_github.pub
 	# Add to github.com settings…
 	ssh -T git@github.com
