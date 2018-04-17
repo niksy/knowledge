@@ -131,6 +131,8 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Pay feedback when volume is changed (check)
 		* Show volume in menubar (check)
 1. Set macOS apps
+	* Terminal
+		* Profiles → Advanced → Visual bell → Only when sound is muted (uncheck)
 	* Messages
 		* Show status in menubar (check)
 	* Contacts  
