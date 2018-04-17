@@ -1,7 +1,5 @@
 # macOS setup
 
-For macOS 10.13+. **This works for me, but I can’t guarantee it will work for you.**
-
 ## Backup old system
 
 1. Remove licenses and deactivate software:
@@ -20,7 +18,7 @@ For macOS 10.13+. **This works for me, but I can’t guarantee it will work for 
 
 After installation of OS is complete, follow next instructions. They’re not "set in stone" so you can probably mix and match them, but I’ve found that this order produces most desirable outcome.
 
-1. Check for software updates via Mac App Store. It’s best first to update all the crucial parts of OS before continuing.
+1. Check for and install software updates via Mac App Store.
 
 1. [Check if `/usr/local` has proper permissions (or does it even exists)](https://github.com/inglesp/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md).
 
