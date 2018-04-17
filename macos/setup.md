@@ -1,6 +1,6 @@
 # macOS setup
 
-For macOS 10.13+. **This works for me, but I can’t guarantee it will work for you.** Still, you can see if you can change or modify your setup procedure with these instructions. Contributions welcome :).
+For macOS 10.13+. **This works for me, but I can’t guarantee it will work for you.**
 
 ## Backup old system
 
@@ -40,7 +40,7 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	sh dotfiles link
 	```
 
-1. Close current shell and open new one so Terminal can accept new changes :)
+1. Close current shell and open new one so Terminal can accept new changes
 
 1. Install [Homebrew](http://brew.sh), following these [instructions](http://brew.sh/#install).
 
