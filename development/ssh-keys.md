@@ -45,6 +45,7 @@ To make macOS 10.12+ use SSH credentials stored to Keychain and not ask you for 
 
 ```
 Host *
+	AddKeysToAgent yes
 	UseKeychain yes
 ```
 
