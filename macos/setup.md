@@ -67,18 +67,18 @@ After installation of OS is complete, follow next instructions. They’re not "s
 
 1. Set Terminal profile to `~/.dotfiles/.init/niksy.terminal` and set it as default profile.
 
-1. Run `.osx`. **Don’t forget to set proper password when asked for sudo permissions!**
+1. Run `.macos`. **Don’t forget to set proper password when asked for sudo permissions!**
 
 	```sh
 	cd ~
-	source .dotfiles/.osx
+	source .dotfiles/.macos
 	```
 
-1. Run `.appconfig_extra`.
+1. Run `.macos_extra`.
 
 	```sh
 	cd ~
-	source .dotfiles/.appconfig_extra
+	source .dotfiles/.macos_extra
 	```
 
 1. Set SSH keys, following these [instructions](https://help.github.com/articles/generating-ssh-keys#platform-mac). These instructions will generate key for GitHub.
