@@ -158,6 +158,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Add Movies and place below Downloads
 	* Remove Tags
 	* Remove CDs, DVDs, iPods
+	* Remove Recents
 1. Set 3rd party apps
 	* Unarchiver
 		* Select all types
