@@ -606,6 +606,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://erikmonjas.github.io/css-grid-12-column-layout/
 * https://rachelandrew.co.uk/archives/2018/04/27/grid-level-2-and-subgrid/
 * https://twitter.com/una/status/988476230688215045?s=12
+* https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
 
 ## TypeScript
 
