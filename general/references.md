@@ -629,6 +629,7 @@ Some useful reference material on various development topics. Will probably be t
 ## Node
 
 * http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
+* https://risingstack.com/resources/node-js-monitoring-ebook
 
 ## React
 
