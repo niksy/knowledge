@@ -608,6 +608,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://twitter.com/una/status/988476230688215045?s=12
 * https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
 * https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f
+* https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/
 
 ## TypeScript
 
