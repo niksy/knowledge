@@ -429,6 +429,7 @@ Some useful reference material on various development topics. Will probably be t
 * [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
 * [The Critical Request](https://css-tricks.com/the-critical-request/)
 * [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
+* [Layers and how to force them](https://dassur.ma/things/forcing-layers/)
 
 ### Tools
 
@@ -651,3 +652,4 @@ Some useful reference material on various development topics. Will probably be t
 ## Testing
 
 * https://www.cypress.io/
+* https://github.com/kentcdodds/dom-testing-library
