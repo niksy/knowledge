@@ -630,6 +630,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://m.serversideup.net/your-guide-to-uploading-files-with-vuejs-and-axios-184602a2086a
 * https://codeburst.io/open-sourcing-your-first-vue-component-5ef015e1f66c
 * https://medium.com/poi-js/bundle-and-publish-your-vue-componet-like-a-pro-9ce27f9b5f65
+* https://medium.com/@dillonchanis/handling-errors-in-vue-with-error-boundaries-91f6ead0093b
 
 ## Node
 
