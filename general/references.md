@@ -491,6 +491,7 @@ Some useful reference material on various development topics. Will probably be t
 
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.sunvvl7wb)
 * [Accessibility tips](https://storify.com/gnclmorais/hugo-giraudel-s)
+* [Accessible form labels](https://www.filamentgroup.com/lab/a11y-form-labels.html)
 
 ### Tools
 
