@@ -430,6 +430,7 @@ Some useful reference material on various development topics. Will probably be t
 * [The Critical Request](https://css-tricks.com/the-critical-request/)
 * [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
 * [Layers and how to force them](https://dassur.ma/things/forcing-layers/)
+* [Script loading strategies](https://docs.google.com/document/d/16rHWLu-0abC9WWLhLBFlIRtbSnOFzhKAXsCamsp0oAs/edit?ts=5ada80de)
 
 ### Tools
 
