@@ -493,6 +493,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.sunvvl7wb)
 * [Accessibility tips](https://storify.com/gnclmorais/hugo-giraudel-s)
 * [Accessible form labels](https://www.filamentgroup.com/lab/a11y-form-labels.html)
+* [aXe](https://www.deque.com/axe/)
 
 ### Tools
 
@@ -615,6 +616,7 @@ Some useful reference material on various development topics. Will probably be t
 ## TypeScript
 
 * https://redditblog.com/2017/06/30/why-we-chose-typescript/
+* https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
 
 ## Vue
 
