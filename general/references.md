@@ -335,6 +335,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Vue.js Component Style Guide](https://medium.com/tldr-tech/vue-js-component-style-guide-711988d5e94e#.wfda0tasu)
 * [How To (Safely) Use A jQuery Plugin With Vue.js](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/)
 * [Scoped slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots)
+* [Cookbook](https://vuejs.org/v2/cookbook/)
 
 #### Server-side rendering
 
