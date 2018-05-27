@@ -649,6 +649,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://css-tricks.com/server-side-react-rendering/
 * http://www.react.express/
 * https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
+* https://github.com/krasimir/react-in-patterns
 
 ## JavaScript
 
