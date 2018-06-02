@@ -616,6 +616,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/
 * https://bitsofco.de/how-display-contents-works/
 * https://www.smashingmagazine.com/2018/05/guide-css-layout/
+* https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
 
 ## TypeScript
 
