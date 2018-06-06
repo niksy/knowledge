@@ -172,5 +172,3 @@ Some settings can’t be set automatically so we have to set them manually.
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
 		* Remove minimap
-	* Plex
-		* System Preferences → Energy Saver → Computer Sleep: Never
