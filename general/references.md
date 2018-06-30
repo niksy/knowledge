@@ -664,3 +664,4 @@ Some useful reference material on various development topics. Will probably be t
 
 * https://www.cypress.io/
 * https://github.com/kentcdodds/dom-testing-library
+* https://hackernoon.com/cypress-io-vs-protractor-e2e-testing-battle-d124ece91dc7
