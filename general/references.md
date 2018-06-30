@@ -658,6 +658,7 @@ Some useful reference material on various development topics. Will probably be t
 ## JavaScript
 
 * https://molily.de/robust-javascript/
+* https://www.graphqlstack.com/
 
 ## Testing
 
