@@ -620,6 +620,8 @@ Some useful reference material on various development topics. Will probably be t
 * https://bitsofco.de/how-display-contents-works/
 * https://www.smashingmagazine.com/2018/05/guide-css-layout/
 * https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
+* https://www.layoutit.com/grid
+* https://twitter.com/postcss/status/1014584892410269702?s=12
 
 ## TypeScript
 
@@ -643,6 +645,11 @@ Some useful reference material on various development topics. Will probably be t
 * https://codeburst.io/open-sourcing-your-first-vue-component-5ef015e1f66c
 * https://medium.com/poi-js/bundle-and-publish-your-vue-componet-like-a-pro-9ce27f9b5f65
 * https://medium.com/@dillonchanis/handling-errors-in-vue-with-error-boundaries-91f6ead0093b
+* https://twitter.com/adamwathan/status/1013779187688038400
+* http://www.dotnetcurry.com/vuejs/1441/vuejs-unit-testing
+* https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb
+* https://adamwathan.me/the-trick-to-understanding-scoped-slots-in-vuejs/
+* https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9
 
 ## Node
 
