@@ -8,6 +8,7 @@ Use [iectrl](http://xdissent.github.io/iectrl/). If you want to see CLI output f
 brew cask install virtualbox
 brew install unar
 npm install -g iectrl
+# Optionally, add existing IE VMs ZIP files to ~/.ievms
 curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env IEVMS_VERSIONS="9 10 EDGE" bash
 ```
 
