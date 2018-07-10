@@ -30,6 +30,7 @@ This is a known bug in Internet Explorer 8 which manifests itself from time to t
 
 * Windows Search → Language and there set everything to "Croatian"
 * Set "HR" in taskbar
+* Set correct time zone
 
 ## Hosts file
 
