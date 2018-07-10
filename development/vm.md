@@ -6,7 +6,9 @@ Use [iectrl](http://xdissent.github.io/iectrl/). If you want to see CLI output f
 
 ```sh
 brew cask install virtualbox
+brew install unar
 npm install -g iectrl
+curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env IEVMS_VERSIONS="9 10 EDGE" bash
 ```
 
 ## Windows XP settings
