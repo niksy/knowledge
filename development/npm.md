@@ -6,10 +6,10 @@ npm config set init.author.email "you@example.com"
 npm config set init.author.url "http://example.com"
 npm config set init.license "MIT"
 
-npm adduser
+npm login
 ```
 
-If you’ve change data, run `npm adduser`.
+If you’ve change data, run `npm login`.
 
 After that, run `npm publish` inside project folder.
 
