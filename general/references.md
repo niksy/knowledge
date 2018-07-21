@@ -654,6 +654,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://blog.webf.zone/vue-js-considerations-and-tricks-fa7e0e4bb7bb
 * https://adamwathan.me/the-trick-to-understanding-scoped-slots-in-vuejs/
 * https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9
+* https://blog.bitsrc.io/how-to-build-vue-components-like-a-pro-fd89fd4d524d
 
 ## Node
 
