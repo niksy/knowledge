@@ -622,6 +622,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/
 * https://www.layoutit.com/grid
 * https://twitter.com/postcss/status/1014584892410269702?s=12
+* https://www.rachelandrew.co.uk/archives/2018/07/17/should-i-try-to-use-the-ie-version-of-grid-layout-revisited-for-2018/
 
 ## TypeScript
 
