@@ -625,6 +625,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://www.rachelandrew.co.uk/archives/2018/07/17/should-i-try-to-use-the-ie-version-of-grid-layout-revisited-for-2018/
 * https://twitter.com/mozhacks/status/1019600519306907649?s=12
 * https://www.smashingmagazine.com/2018/07/css-grid-2/
+* https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/
 
 ## TypeScript
 
