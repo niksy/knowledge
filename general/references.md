@@ -383,6 +383,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Service Workers Testing](https://hackernoon.com/service-worker-testing-made-easy-9a2d8e9aa50)
 * [Refresh button](https://redfin.engineering/service-workers-break-the-browsers-refresh-button-by-default-here-s-why-56f9417694)
 * [Mozilla guide](https://serviceworke.rs/)
+* [Caching](https://cloudfour.com/thinks/when-7-kb-equals-7-mb/)
 
 #### Resources
 
