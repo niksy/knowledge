@@ -670,6 +670,7 @@ Some useful reference material on various development topics. Will probably be t
 
 * https://molily.de/robust-javascript/
 * https://www.graphqlstack.com/
+* https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c
 
 ## Testing
 
