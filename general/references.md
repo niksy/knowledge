@@ -27,6 +27,7 @@ Some useful reference material on various development topics. Will probably be t
 * [How flex-glow and flex-basis works](https://css-tricks.com/flex-grow-is-weird/)
 * [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.oybqyx3k6)
 * [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+* [Visual guide](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
 
 #### Tools
 
