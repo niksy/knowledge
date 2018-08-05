@@ -662,6 +662,7 @@ Some useful reference material on various development topics. Will probably be t
 * http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
 * https://risingstack.com/resources/node-js-monitoring-ebook
 * https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
+* https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 
 ## React
 
