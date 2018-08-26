@@ -189,6 +189,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Optimizing React Rendering](https://flexport.engineering/optimizing-react-rendering-part-1-9634469dca02)
 * [Simple explanation of Higher-Order Components (HOC)](http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/)
 * [Handling errors with error boundaries](https://css-tricks.com/handling-errors-with-error-boundary/)
+* [React lifecycle methods overview](https://twitter.com/gitconnected/status/1026487850349588481?s=12)
 
 #### Server-side render
 
