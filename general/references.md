@@ -82,6 +82,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Build your first Node.js microservice](http://mxstbr.blog/2017/01/your-first-node-microservice/)
 * [Node MVC Application](https://www.sitepoint.com/node-js-mvc-application/)
 * [Learn Node by Wes Bos](https://learnnode.com/)
+* [Node best practices](https://github.com/i0natan/nodebestpractices)
 
 ### ES6
 
