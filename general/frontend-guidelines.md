@@ -276,17 +276,17 @@ Visual elements are named with *generic to specific* system + SUIT.
 |`icon-arrow--left-*.png`|Element direction|
 |`icon-arrow--left-01.png`|Modifiers|
 
-## Working with CSS
+## Working with style components
 
 * Modern CSS features usage is recommended, where PostCSS process should be used to transform it down to proper output
 * Majority of best practice should already be defined with linter configuration so refer to linter output when working on codebase
 
-## Working with JS
+## Working with script components
 
 * Modern ES features usage is recommended, where Babel process should be used to transpile it down to proper output
 * Majority of best practice should already be defined with linter configuration so refer to linter output when working on codebase
 
-## Working with HTML
+## Working with markup
 
 * To keep compatibility with various versions of HTML use [polyglot markup](http://dev.w3.org/html5/html-xhtml-author-guide/)
 * Each new level within HTML requires additional indentation to make it simpler to review the code and its hierarchy in the document
