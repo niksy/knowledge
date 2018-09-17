@@ -5,7 +5,7 @@ Guides, instructions, tips. Just general development knowledge.
 ## Contents
 
 * General
-	* [General](general/general.md)
+	* [Guidelines for writing front-end code](general/frontend-guidelines.md)
 	* [References](general/references.md)
 	* [Tips](general/tips.md)
 	* [HTML](general/html.md)
