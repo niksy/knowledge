@@ -111,7 +111,7 @@ writtend next to the line they need to clarify if the comment is short enough an
 (for example, CSS property clarification).
 
 Smaller comments can be written in a simpler syntax if the language allows
-(e.g. JavaScript also has the form of comment `//`).
+(e.g. JS also has the form of comment `//`).
 
 Content groups are visibly more pronounced than the rest of the comments.
 Group name can have prefix `$` to make it easier to select when searching within a document.
@@ -161,9 +161,9 @@ They are marked  with `@todo [text]` within comments for every language.
 /* @todo */
 ```
 
-### JavaScript
+### JS
 
-```javascript
+```js
 /**
  * DocBlock comment block
  *
@@ -195,25 +195,12 @@ var bar = 2;
 /* @todo */
 ```
 
-## Architecture
+## Naming structure
 
-### SUIT CSS
+### Naming convention
 
 When working on the code architecture, prefer [SUIT CSS style](https://github.com/suitcss/suit/blob/master/doc/README.md).
-It is adaptable to HTML, CSS and JavaScript and understandable to anyone who works on the code.
-
-#### Examples
-
-Examples of projects which use SUIT naming structure:
-
-* http://nicolasgallagher.com/
-* http://simonsmith.io/
-* http://www.theguardian.com/international
-* http://www.bloomberg.com/
-* https://www.shopa.com/
-* https://twitter.com
-
-## Naming structure
+It is adaptable to HTML, CSS and JS and understandable to anyone who works on the code.
 
 ### Dictionary
 
