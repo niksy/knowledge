@@ -25,13 +25,8 @@ Use clear and appropriate names for HTML classes, IDs and variable and
 functio names. The name should be clear to anyone who works on the code.
 Nothing is too long or too descriptive if at first glance it is clear what it means.
 
-#### HTML class naming
-
-Suggestions for HTML class names:
-
-* Typographic values based on [Greek alphabet and SI values](http://csswizardry.com/2012/02/pragmatic-practical-font-sizing-in-css/)
-	* Use only [SI prefixes](http://en.wikipedia.org/wiki/SI_prefix#List_of_SI_prefixes), and for more use [unofficial values] (http://en.wikipedia.org/wiki/Unofficial_SI_prefixes#Unofficial_prefixes)
-	* Initial typographical value would be called [caput](http://dictionary.reference.com/browse/caput)
+* Use [greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet#Letters) when describing HTML class names
+* Initial typographical value would be called [caput](http://dictionary.reference.com/browse/caput)
 * [Suggestions for table definitions](http://snook.ca/archives/html_and_css/one-module-or-two)
 
 #### Name separation
