@@ -8,8 +8,6 @@ Guides, instructions, tips. Just general development knowledge.
 	* [Guidelines for writing front-end code](general/frontend-guidelines.md)
 	* [References](general/references.md)
 	* [Tips](general/tips.md)
-	* [HTML](general/html.md)
-	* [Naming structure](general/naming-structure.md)
 * macOS
 	* [General](macos/general.md)
 	* [Setup](macos/setup.md)
