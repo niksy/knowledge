@@ -43,7 +43,7 @@ Element states are defined with prefix `is`, e.g. `is-selected`.
 #### Changes to existing values
 
 If there is a need to change an existing name, the new name should be specific.
-For example, instead of `.article-text.big`, new name should be '.article-text.article-big`.
+For example, instead of `.article-text.big`, new name should be `.article-text.article-big`.
 
 All changes should be done according to the principle of "defensive programming" - it is more appropriate to extend the current component with new modifications than to modify the same that could disrupt other modules that use these components.
 
