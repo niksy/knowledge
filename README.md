@@ -12,9 +12,6 @@ Guides, instructions, tips. Just general development knowledge.
 	* [General](macos/general.md)
 	* [Setup](macos/setup.md)
 * Development setup
-	* [Apache configuration](development/apache/README.md)
-	* [PHP configuration](development/php/README.md)
-	* [Testing](development/testing/README.md)
 	* [Virtual machines](development/vm.md)
 	* [SSH keys](development/ssh-keys.md)
 	* [Git](development/git.md)
