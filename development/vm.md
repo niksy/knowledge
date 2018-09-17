@@ -2,7 +2,7 @@
 
 ## Basic setup
 
-Use [iectrl](http://xdissent.github.io/iectrl/). If you want to see CLI output from the command, add `export DEBUG="iectrl:*"` to your user’s `.bash_profile`.
+Use [iectrl](http://xdissent.github.io/iectrl/) with [VirtualBox](https://www.virtualbox.org/). If you want to see CLI output from the command, add `export DEBUG="iectrl:*"` to your user’s `.bash_profile`.
 
 ```sh
 brew cask install virtualbox
