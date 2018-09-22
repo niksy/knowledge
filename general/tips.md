@@ -4,6 +4,18 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Robustness and least power](https://adactio.com/journal/14327)
+
+> As a general rule, [it’s always worth asking if you can accomplish something with a less powerful technology](http://simplyaccessible.com/article/data-attributes/):
+
+> In the web front-end stack — HTML, CSS, JS, and ARIA — if you can solve a problem with a simpler solution lower in the stack, you should. It’s less fragile, more foolproof, and just works.
+
+> * Instead of using JavaScript to do animation, see if you can do it in CSS instead.
+> * Instead of using JavaScript to do simple client-side form validation, try to use HTML input types and attributes like `required`.
+> * Instead of using ARIA to give a certain role value to a `div` or `span`, try to use a more suitable HTML element instead.
+
+---
+
 [Is text sizing dead?](https://alastairc.ac/2017/11/is-text-sizing-dead/)
 
 > Myth: Pixels units for text are bad for accessibility
