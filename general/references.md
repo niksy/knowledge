@@ -346,6 +346,7 @@ Some useful reference material on various development topics. Will probably be t
 * [How To (Safely) Use A jQuery Plugin With Vue.js](http://vuejsdevelopers.com/2017/05/20/vue-js-safely-jquery-plugin/)
 * [Scoped slots](https://vuejsdevelopers.com/2017/10/02/vue-js-scoped-slots)
 * [Cookbook](https://vuejs.org/v2/cookbook/)
+* [Modern component reusability: Render props in React & scoped slots in Vue](https://blog.logrocket.com/modern-component-reusability-render-props-in-react-scoped-slots-in-vue-ff3c5b2dc899)
 
 #### Server-side rendering
 
