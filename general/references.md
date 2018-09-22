@@ -253,6 +253,10 @@ Some useful reference material on various development topics. Will probably be t
 * [react-devtools](https://github.com/facebook/react-devtools)
 * [react-loadable](https://github.com/thejameskyle/react-loadable)
 
+#### Tutorials
+
+* [React in five](https://javascriptplayground.com/react-in-five/)
+
 #### Notes
 
 * Always start component names with a capital letter.
