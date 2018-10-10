@@ -20,6 +20,7 @@ curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env I
 * Windows Search → Language and there set everything to "Croatian"
 * Set "HR" in taskbar
 * Set correct time zone
+* [Install security update if using IE11](https://github.com/xdissent/ievms/issues/246#issuecomment-69385014)
 
 ### Hosts file
 
