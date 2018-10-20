@@ -638,6 +638,8 @@ Some useful reference material on various development topics. Will probably be t
 * https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/
 * http://grid.malven.co/
 * https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
+* https://zellwk.com/blog/remember-css-grid-properties/
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook?mc_cid=5d0d3ab15d&mc_eid=1cf5929030
 
 ## TypeScript
 
