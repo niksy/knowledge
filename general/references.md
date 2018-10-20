@@ -637,6 +637,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://www.smashingmagazine.com/2018/07/css-grid-2/
 * https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/
 * http://grid.malven.co/
+* https://www.smashingmagazine.com/2018/10/flexbox-use-cases/
 
 ## TypeScript
 
