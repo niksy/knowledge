@@ -698,3 +698,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://github.com/kentcdodds/dom-testing-library
 * https://hackernoon.com/cypress-io-vs-protractor-e2e-testing-battle-d124ece91dc7
 * https://blog.graphql.guide/introducing-the-graphql-guide-11a5ae48628a
+
+## PWA
+
+* https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/
