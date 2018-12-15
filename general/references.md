@@ -646,6 +646,7 @@ Some useful reference material on various development topics. Will probably be t
 
 * https://redditblog.com/2017/06/30/why-we-chose-typescript/
 * https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
+* https://ecom.software/after-two-years-with-typescript-was-it-worth-it/
 
 ## Vue
 
