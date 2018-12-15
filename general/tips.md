@@ -4,6 +4,14 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+https://twitter.com/RyanTownsend/status/1060483943739392000
+
+> Really simple tip for improving the performance of fixed elements when scrolling (think nav bars, floating chat/feedback buttons):
+
+> Add `will-change` or `transform` to trigger their own layer.
+
+---
+
 [Robustness and least power](https://adactio.com/journal/14327)
 
 > As a general rule, [it’s always worth asking if you can accomplish something with a less powerful technology](http://simplyaccessible.com/article/data-attributes/):
