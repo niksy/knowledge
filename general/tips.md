@@ -4,6 +4,19 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+https://twitter.com/kentcdodds/status/1043196918547898368
+
+Good tip on using rems/ems/pixels:
+
+> Basically you need to ask yourself does this need to get bigger if the user increases their font size?
+
+* Rems are usually best choice for font size since they’re flexible and point to root font size
+* Ems should be used for media query widths
+* Pixels should be used for spacing (padding, margin, …) most of the time
+* Line height should be unitless
+
+---
+
 https://twitter.com/RyanTownsend/status/1060483943739392000
 
 > Really simple tip for improving the performance of fixed elements when scrolling (think nav bars, floating chat/feedback buttons):
