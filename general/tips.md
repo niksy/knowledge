@@ -4,11 +4,21 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+https://overreacted.io/things-i-dont-know-as-of-2018/
+
+> * Even your favorite developers may not know many things that you know.
+> * Regardless of your knowledge level, your confidence can vary greatly.
+> * Experienced developers have valuable expertise despite knowledge gaps.
+
+---
+
 https://twitter.com/kentcdodds/status/1043196918547898368
 
 Good tip on using rems/ems/pixels:
 
 > Basically you need to ask yourself does this need to get bigger if the user increases their font size?
+
+My notes:
 
 * Rems are usually best choice for font size since they’re flexible and point to root font size
 * Ems should be used for media query widths
