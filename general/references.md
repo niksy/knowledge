@@ -648,6 +648,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
 * https://ecom.software/after-two-years-with-typescript-was-it-worth-it/
 * https://twitter.com/swyx/status/1077718506903298048?s=12
+* http://2ality.com/2018/04/type-notation-typescript.html
 
 ## Vue
 
