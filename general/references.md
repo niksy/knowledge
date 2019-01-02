@@ -648,7 +648,10 @@ Some useful reference material on various development topics. Will probably be t
 * https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
 * https://ecom.software/after-two-years-with-typescript-was-it-worth-it/
 * https://twitter.com/swyx/status/1077718506903298048?s=12
-* http://2ality.com/2018/04/type-notation-typescript.html
+* http://2ality.com/2018/04/type-notation-typescript.html - najbolje za start
+* https://medium.com/@dhruvrajvanshi/advanced-typescript-patterns-6cf8826c7944
+* https://twitter.com/kwuchu/status/1042443278833070080?s=12
+* http://www.typescriptlang.org/docs/tutorial.html
 
 ## Vue
 
