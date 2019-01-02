@@ -713,3 +713,18 @@ Some useful reference material on various development topics. Will probably be t
 ## React
 
 * https://usehooks.com/
+
+## SSR
+
+* https://mobile.twitter.com/_developit/status/919926458537127936
+* https://github.com/jaredpalmer/razzle
+* https://vuejsdevelopers.com/2017/12/11/vue-ssr-router/?jsdojo_id=ech_sgd
+* https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299
+* https://www.nczonline.net/blog/2013/10/07/node-js-and-the-new-web-front-end/
+* https://github.com/cloverfield-tools/universal-react-boilerplate
+* https://about.gitlab.com/2017/02/06/vue-big-plan/
+* http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/
+* https://medium.com/chris-opperwall/using-chrome-devtools-to-debug-frontend-and-backend-javascript-ae4815065cb4
+* https://github.com/Igor-Vuk/ultimate-react-boilerplate/blob/master/src/server/prodServer.js
+* https://twitter.com/_developit/status/1001923018178945024
+* https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299
