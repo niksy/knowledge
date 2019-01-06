@@ -191,6 +191,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Simple explanation of Higher-Order Components (HOC)](http://blog.jakoblind.no/simple-explanation-of-higher-order-components-hoc/)
 * [Handling errors with error boundaries](https://css-tricks.com/handling-errors-with-error-boundary/)
 * [React lifecycle methods overview](https://twitter.com/gitconnected/status/1026487850349588481?s=12)
+* [Use React.lazy and Suspense to Code-Split Your App](https://hswolff.com/blog/react-lazy-and-suspense/)
 
 #### Server-side render
 
@@ -653,6 +654,8 @@ Some useful reference material on various development topics. Will probably be t
 * https://medium.com/@dhruvrajvanshi/advanced-typescript-patterns-6cf8826c7944
 * https://twitter.com/kwuchu/status/1042443278833070080?s=12
 * http://www.typescriptlang.org/docs/tutorial.html
+* https://twitter.com/elijahmanor/status/1080924351266865153?s=12
+* https://twitter.com/ryanflorence/status/1081285797804789760?s=12
 
 ## Vue
 
