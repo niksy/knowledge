@@ -16,7 +16,7 @@ After that, run `npm publish` inside project folder.
 ## Deprecate package
 
 ```sh
-npm deprecate <package-name>@"*" "Deprecation message"
+npm deprecate --otp=<code> <package-name>@"*" "Deprecation message"
 ```
 
 ## References
