@@ -680,6 +680,10 @@ Some useful reference material on various development topics. Will probably be t
 * https://adamwathan.me/the-trick-to-understanding-scoped-slots-in-vuejs/
 * https://itnext.io/testing-vue-components-with-mocha-and-webpack-594a9f7e28b9
 * https://blog.bitsrc.io/how-to-build-vue-components-like-a-pro-fd89fd4d524d
+* https://twitter.com/karoljmajewski/status/1082413696075382785?s=12
+* https://twitter.com/hashtag/kitzeLearnsTS?src=hash
+* https://twitter.com/thekitze/status/1082585687952642048
+* https://twitter.com/jaredpalmer/status/1081611102759383040?s=12
 
 ## Node
 
