@@ -656,6 +656,7 @@ Some useful reference material on various development topics. Will probably be t
 * http://www.typescriptlang.org/docs/tutorial.html
 * https://twitter.com/elijahmanor/status/1080924351266865153?s=12
 * https://twitter.com/ryanflorence/status/1081285797804789760?s=12
+* https://github.com/typescript-eslint/typescript-eslint
 
 ## Vue
 
