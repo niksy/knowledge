@@ -657,6 +657,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://twitter.com/elijahmanor/status/1080924351266865153?s=12
 * https://twitter.com/ryanflorence/status/1081285797804789760?s=12
 * https://github.com/typescript-eslint/typescript-eslint
+* https://twitter.com/ryanflorence/status/1086660270896738305?s=12
 
 ## Vue
 
