@@ -13,43 +13,6 @@ Some useful reference material on various development topics. Will probably be t
 
 * [Font display explanation](https://font-display.glitch.me/)
 
-### Flexbox
-
-* [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* [Flebox guide](https://tympanus.net/codrops/css_reference/flexbox/)
-* [Flexbox patterns](http://www.flexboxpatterns.com/home)
-* [Almost complete guide to flexbox (without flexbox)](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
-* [Solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/)
-* [Using auto margins for pushing single items along main/cross axis](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.e7p6i7kv9)
-* [Flexbox grid layout tips](https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.jsc7u4ach)
-* [Visual cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
-* [flex-basis, flex-grow and flex-shrink formula](https://chriswrightdesign.com/experiments/flexbox-adventures/)
-* [How flex-glow and flex-basis works](https://css-tricks.com/flex-grow-is-weird/)
-* [Understanding flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.oybqyx3k6)
-* [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
-* [Visual guide](https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35)
-* [Grid to flex](http://www.gridtoflex.com/)
-
-#### Tools
-
-* [Understand how to calculate the width of flex items](https://madebymike.com.au/demos/flexbox-tester/)
-* [Flexbox playground](http://codepen.io/enxaneta/full/adLPwv/)
-* [Flexbox froggy](http://flexboxfroggy.com/)
-
-#### Courses
-
-* [What the flexbox](http://flexbox.io/)
-
-#### Resources
-
-* [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox)
-* [flexbugs](https://github.com/philipwalton/flexbugs)
-
-#### Notes
-
-* Flexbox layout is most appropriate to the components of an application, and small-scale layouts, while the Grid layout is intended for larger scale layouts.
-* flex-direction determines flex main axis
-
 ## JavaScript
 
 ### Resources
