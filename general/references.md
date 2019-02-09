@@ -621,6 +621,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://twitter.com/ryanflorence/status/1081285797804789760?s=12
 * https://github.com/typescript-eslint/typescript-eslint
 * https://twitter.com/ryanflorence/status/1086660270896738305?s=12
+* https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad
 
 ## Vue
 
