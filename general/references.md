@@ -607,6 +607,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook?mc_cid=5d0d3ab15d&mc_eid=1cf5929030
 * https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/
 * https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/
+* https://css-tricks.com/what-we-want-from-grid/
 
 ## TypeScript
 
