@@ -608,6 +608,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://bitsofco.de/understanding-the-difference-between-grid-template-and-grid-auto/
 * https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/
 * https://css-tricks.com/what-we-want-from-grid/
+* https://css-irl.info/to-grid-or-to-flex/?no-cache=1
 
 ## TypeScript
 
