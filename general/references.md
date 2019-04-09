@@ -155,6 +155,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Handling errors with error boundaries](https://css-tricks.com/handling-errors-with-error-boundary/)
 * [React lifecycle methods overview](https://twitter.com/gitconnected/status/1026487850349588481?s=12)
 * [Use React.lazy and Suspense to Code-Split Your App](https://hswolff.com/blog/react-lazy-and-suspense/)
+* [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 #### Server-side render
 
