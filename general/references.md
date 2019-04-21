@@ -610,6 +610,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/
 * https://css-tricks.com/what-we-want-from-grid/
 * https://css-irl.info/to-grid-or-to-flex/?no-cache=1
+* https://www.rachelandrew.co.uk/archives/2019/04/12/are-nested-grids-like-nested-tables/
 
 ## TypeScript
 
