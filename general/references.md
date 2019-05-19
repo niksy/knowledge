@@ -664,6 +664,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
 * https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 * https://twitter.com/alex_frantic/status/1046993893349347328?s=12
+* https://twitter.com/tomdale/status/1117834721659166720?s=12
 
 ## React
 
