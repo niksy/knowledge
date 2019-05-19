@@ -665,6 +665,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
 * https://twitter.com/alex_frantic/status/1046993893349347328?s=12
 * https://twitter.com/tomdale/status/1117834721659166720?s=12
+* https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6
 
 ## React
 
