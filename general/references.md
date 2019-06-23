@@ -74,6 +74,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Object destructuring (*) works for Arrays](https://mobile.twitter.com/rauschma/status/932291053633359872)
 * [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 * [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
+* [Promise combinators](https://v8.dev/features/promise-combinators)
 
 ### Promises
 
