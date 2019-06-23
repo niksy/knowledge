@@ -314,6 +314,7 @@ Some useful reference material on various development topics. Will probably be t
 * [Cookbook](https://vuejs.org/v2/cookbook/)
 * [Modern component reusability: Render props in React & scoped slots in Vue](https://blog.logrocket.com/modern-component-reusability-render-props-in-react-scoped-slots-in-vue-ff3c5b2dc899)
 * [Building renderless Vue components](https://css-tricks.com/building-renderless-vue-components/)
+* [Caching routes](https://itnext.io/yes-this-is-how-to-cache-pages-by-url-with-vue-vue-router-and-keep-alive-component-697ed76896e8)
 
 #### Server-side rendering
 
