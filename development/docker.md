@@ -74,3 +74,4 @@ docker push <name>:<tag>
 * https://gist.github.com/mitchwongho/11266726
 * http://stackoverflow.com/a/28349540/178058
 * http://stackoverflow.com/questions/36663742/docker-unauthorized-authentication-required-upon-push-with-successful-login#comment67809969_39624423
+* https://stackoverflow.com/a/53667302/178058
