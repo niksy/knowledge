@@ -4,13 +4,14 @@
 
 Use [iectrl](http://xdissent.github.io/iectrl/). If you want to see CLI output from the command, add `export DEBUG="iectrl:*"` to your user’s `.bash_profile`.
 
+Make sure thath VirtualBox and VirtualBox Extension Pack versions match.
+
 ```sh
 brew cask install virtualbox
+brew cask install virtualbox-extension-pack
 brew install unar
 npm install -g iectrl
-# Optionally, add existing IE VMs ZIP files to ~/.ievms
-curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env IEVMS_VERSIONS="9 10 EDGE" bash
-# VirtualBox License: https://github.com/xdissent/ievms/issues/328#issuecomment-393738851
+curl -s https://raw.githubusercontent.com/amichaelparker/ievms/master/ievms.sh | env IEVMS_VERSIONS="9 11 EDGE" REUSE_WIN7="yes" bash
 ```
 
 ## Windows 7
@@ -21,6 +22,7 @@ curl -s https://raw.githubusercontent.com/xdissent/ievms/master/ievms.sh | env I
 * Set "HR" in taskbar
 * Set correct time zone
 * [Install security update if using IE11](https://github.com/xdissent/ievms/issues/246#issuecomment-69385014)
+* IE > Internet Options > General > Homepage > Use new tab/Use blank
 
 ### Hosts file
 
