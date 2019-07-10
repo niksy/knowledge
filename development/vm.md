@@ -22,7 +22,7 @@ curl -s https://raw.githubusercontent.com/amichaelparker/ievms/master/ievms.sh |
 * Set "HR" in taskbar
 * Set correct time zone
 * [Install security update if using IE11](https://github.com/xdissent/ievms/issues/246#issuecomment-69385014)
-* IE > Internet Options > General > Homepage > Use new tab/Use blank
+* IE > Internet Options > General > Home page > Set `about:blank`
 
 ### Hosts file
 
