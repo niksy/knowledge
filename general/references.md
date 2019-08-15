@@ -616,6 +616,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://cssgrid-generator.netlify.com/
 * https://twitter.com/adamrackis/status/1129918452096000001?s=12
 * https://learncssgrid.com/
+* https://www.viget.com/articles/getting-started-with-css-grid-part-1/
 
 ## TypeScript
 
@@ -678,6 +679,7 @@ Some useful reference material on various development topics. Will probably be t
 * http://www.react.express/
 * https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
 * https://github.com/krasimir/react-in-patterns
+* https://kentcdodds.com/blog/how-to-use-react-context-effectively
 
 ## JavaScript
 
