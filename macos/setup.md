@@ -150,7 +150,9 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Mail
 		* Set mailbox behavior with Accounts → Mailbox Behaviors
 		* Erase junk/deleted messages: Never
-	 * Photos
+	* iTunes
+		* Preferences → Devices → Prevent iPods, iPhones, and iPads from syncing automatically (check)
+	* Photos
 	 	* [Disable automatic opening when camera is connected](http://lifehacker.com/uncheck-this-box-to-stop-photos-from-opening-when-you-c-1709336195)
 1. Finder sidebar
 	* Add Home and place at top
