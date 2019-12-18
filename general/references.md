@@ -157,6 +157,7 @@ Some useful reference material on various development topics. Will probably be t
 * [React lifecycle methods overview](https://twitter.com/gitconnected/status/1026487850349588481?s=12)
 * [Use React.lazy and Suspense to Code-Split Your App](https://hswolff.com/blog/react-lazy-and-suspense/)
 * [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+* [React's useEffect and useRef Explained for Mortals](https://leewarrick.com/blog/react-use-effect-explained/)
 
 #### Server-side render
 
