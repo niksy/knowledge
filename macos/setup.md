@@ -112,6 +112,8 @@ Some settings can’t be set automatically so we have to set them manually.
 	    * Manual: Turn On Until Sunrise (check)
 	    * Color Temperature: Between "Less Warm" and middle value
 	* System Preferences → Desktop & Screen Saver → Desktop → Solid Colors (Solid Aqua Dark Blue)
+	* System Preferences → Siri → Show Siri in menu bar (uncheck)
+	* System Preferences → Siri → Enable ask Siri (uncheck)
 1. Menubar
 	* Turn off Bluetooth
 	* Remove icons for Bluetooth and Time Machine
