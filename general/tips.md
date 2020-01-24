@@ -4,6 +4,12 @@ Development and design tips for modern web and responsive (RWD) designs I’ve f
 
 ---
 
+[Performance Budgets, Pragmatically](https://csswizardry.com/2020/01/performance-budgets-pragmatically/)
+
+> Whatever monitoring you use (I adore SpeedCurve and Treo), my suggestion for setting a budget for any trackable metric is to take the worst data point in the past two weeks and use that as your limit.
+
+---
+
 https://overreacted.io/things-i-dont-know-as-of-2018/
 
 > * Even your favorite developers may not know many things that you know.
