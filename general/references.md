@@ -619,6 +619,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://learncssgrid.com/
 * https://www.viget.com/articles/getting-started-with-css-grid-part-1/
 * https://cssgridgarden.com/
+* https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/
 
 ## TypeScript
 
