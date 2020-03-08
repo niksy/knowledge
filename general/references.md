@@ -622,6 +622,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/
 * https://twitter.com/jeremystubarnes/status/1217225044587270144?s=12
 * https://twitter.com/mengto/status/1225903497696219136?s=12
+* https://ishadeed.com/article/intrinsic-sizing-in-css/
 
 ## TypeScript
 
