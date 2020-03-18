@@ -115,8 +115,8 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → Siri → Show Siri in menu bar (uncheck)
 	* System Preferences → Siri → Enable ask Siri (uncheck)
 1. Menubar
-	* Turn off Bluetooth
-	* Remove icons for Bluetooth and Time Machine
+	* Turn on Bluetooth
+	* Remove icon for Time Machine
 1. Run daemon applications
 	* The Unarchiver
 	* Moom
