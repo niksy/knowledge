@@ -134,6 +134,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Require password "immediately" after sleep or screen saver begins (check)
 	* Sound
 		* Alert sound: Submarine
+		* Play user interface sound effects (uncheck)
 		* Show volume in menubar (check)
 1. Set macOS apps
 	* Terminal
