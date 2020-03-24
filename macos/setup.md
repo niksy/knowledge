@@ -137,7 +137,6 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Play user interface sound effects (uncheck)
 		* Show volume in menubar (check)
 		* Alert volume: lower all the way to the left
-	* System Preferences → Notifications → Mail → Play sound for notifications (uncheck)
 	* System Preferences → Accessibility → Flash the screen when an alert sound occurs (check)
 1. Set macOS apps
 	* Terminal
