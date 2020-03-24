@@ -132,11 +132,13 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Move focus to next window == ⌘“
 	* System Preferences → Security & Privacy → General
 		* Require password "immediately" after sleep or screen saver begins (check)
-	* Sound
+	* System Preferences → Sound
 		* Alert sound: Submarine
 		* Play user interface sound effects (uncheck)
 		* Show volume in menubar (check)
+		* Alert volume: lower all the way to the left
 	* System Preferences → Notifications → Mail → Play sound for notifications (uncheck)
+	* System Preferences → Accessibility → Flash the screen when an alert sound occurs (check)
 1. Set macOS apps
 	* Terminal
 		* Profiles → Advanced → Bell → Audible bell (uncheck)
