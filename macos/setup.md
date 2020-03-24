@@ -136,6 +136,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Alert sound: Submarine
 		* Play user interface sound effects (uncheck)
 		* Show volume in menubar (check)
+	* System Preferences → Notifications → Mail → Play sound for notifications (uncheck)
 1. Set macOS apps
 	* Terminal
 		* Profiles → Advanced → Bell → Audible bell (uncheck)
