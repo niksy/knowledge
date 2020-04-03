@@ -138,6 +138,10 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Show volume in menubar (check)
 		* Alert volume: lower all the way to the left
 	* System Preferences → Accessibility → Flash the screen when an alert sound occurs (check)
+	* System Preferences → Notifications → Do Not Disturb → Turn on Do Not Disturb:
+		* When the display is sleeping (check)
+		* When the screen is locked (check)
+		* When mirroring to TVs and projectors (check)
 1. Set macOS apps
 	* Terminal
 		* Profiles → Advanced → Bell → Audible bell (uncheck)
