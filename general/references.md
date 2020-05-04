@@ -623,6 +623,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://twitter.com/jeremystubarnes/status/1217225044587270144?s=12
 * https://twitter.com/mengto/status/1225903497696219136?s=12
 * https://ishadeed.com/article/intrinsic-sizing-in-css/
+* https://twitter.com/wesbos/status/1256229763225657348?s=12
 
 ## TypeScript
 
@@ -680,6 +681,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://twitter.com/tomdale/status/1117834721659166720?s=12
 * https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6
 * https://sematext.com/blog/expressjs-best-practices/
+* https://www.joyent.com/node-js/production/design/errors
 
 ## React
 
