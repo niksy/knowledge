@@ -727,3 +727,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://github.com/Igor-Vuk/ultimate-react-boilerplate/blob/master/src/server/prodServer.js
 * https://twitter.com/_developit/status/1001923018178945024
 * https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299
+
+## CSS
+
+* https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/
