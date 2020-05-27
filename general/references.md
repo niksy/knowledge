@@ -626,23 +626,6 @@ Some useful reference material on various development topics. Will probably be t
 * https://twitter.com/wesbos/status/1256229763225657348?s=12
 * https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/
 
-## TypeScript
-
-* https://redditblog.com/2017/06/30/why-we-chose-typescript/
-* https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9
-* https://ecom.software/after-two-years-with-typescript-was-it-worth-it/
-* https://twitter.com/swyx/status/1077718506903298048?s=12
-* http://2ality.com/2018/04/type-notation-typescript.html - najbolje za start
-* https://medium.com/@dhruvrajvanshi/advanced-typescript-patterns-6cf8826c7944
-* https://twitter.com/kwuchu/status/1042443278833070080?s=12
-* http://www.typescriptlang.org/docs/tutorial.html
-* https://twitter.com/elijahmanor/status/1080924351266865153?s=12
-* https://twitter.com/ryanflorence/status/1081285797804789760?s=12
-* https://github.com/typescript-eslint/typescript-eslint
-* https://twitter.com/ryanflorence/status/1086660270896738305?s=12
-* https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad
-* https://javascriptplayground.com/typescript-eslint/
-
 ## Vue
 
 * https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs
@@ -731,3 +714,7 @@ Some useful reference material on various development topics. Will probably be t
 ## CSS
 
 * https://css-tricks.com/lets-take-a-deep-dive-into-the-css-contain-property/
+
+## Node
+
+* https://serverlesshandbook.dev/
