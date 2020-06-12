@@ -75,6 +75,24 @@ Some useful reference material on various development topics. Will probably be t
 * [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
 * [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
 * [Promise combinators](https://v8.dev/features/promise-combinators)
+* [Weak references](https://v8.dev/features/weak-references)
+* [Symbols](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
+* [Iterable](https://javascript.info/iterable)
+* [Generators](https://javascript.info/generators)
+* [Async iterators/generators](https://javascript.info/async-iterators-generators)
+* [Microtask queue](https://javascript.info/microtask-queue)
+* [Proxy](https://javascript.info/proxy)
+
+### Map/Set
+
+* The Map object allows you to store key-value pairs and remembers the original insertion order of the keys.
+* The Set object allows you to store unique values of any type.
+* https://twitter.com/mathias/status/1040254420246781955
+* https://twitter.com/ChiriCuddles/status/1040237025109131264
+* https://scotch.io/tutorials/exploring-sets-and-maps-in-javascript
+* https://wanago.io/2019/08/19/map-and-weakmap/
+* https://javascript.info/map-set
+* https://javascript.info/weakmap-weakset
 
 ### Promises
 
