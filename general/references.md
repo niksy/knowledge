@@ -643,6 +643,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://ishadeed.com/article/intrinsic-sizing-in-css/
 * https://twitter.com/wesbos/status/1256229763225657348?s=12
 * https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/
+* https://moderncss.dev/container-query-solutions-with-css-grid-and-flexbox/
 
 ## Vue
 
