@@ -645,6 +645,8 @@ Some useful reference material on various development topics. Will probably be t
 * https://css-tricks.com/responsive-grid-magazine-layout-in-just-20-lines-of-css/
 * https://moderncss.dev/container-query-solutions-with-css-grid-and-flexbox/
 * https://ishadeed.com/article/grid-layout-flexbox-components/
+* https://gridbyexample.com/
+* https://grid.layoutit.com/
 
 ## Vue
 
