@@ -36,10 +36,6 @@ uses dashes.
 
 For script code, variable and function names shoulf use camel-casing pattern.
 
-#### Element states
-
-Element states are defined with prefix `is`, e.g. `is-selected`.
-
 #### Changes to existing values
 
 If there is a need to change an existing name, the new name should be specific.
@@ -198,64 +194,3 @@ Use ARIA attributes for better accessibility.
 
 * [ARIA Landmark Roles](http://a11yproject.com/posts/aria-landmark-roles/)
 * [Using WAI-ARIA Landmarks](http://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/)
-
-## Example
-
-```html
-<!doctype html>
-<html lang="hr" class="no-js">
-<head>
-	<meta charset="utf-8" />
-	<title>Example</title>
-	<link rel="stylesheet" href="//example.com/assets/css/style.css" />
-	<script src="//example.com/assets/js/script.js"></script>
-</head>
-<body>
-
-	<div class="foo">
-
-		<!-- First element -->
-		<div class="bar">
-			<p>Text 1 1</p>
-			<input type="checkbox" checked="checked" />
-		</div>
-
-		<!--
-		  Second element
-		  @todo do something :)
-		-->
-		<div
-			class="baz"
-			id="foobar"
-			data-action="foobaz"
-		>
-			<p>Text 2</p>
-		</div>
-
-	</div>
-
-</body>
-</html>
-```
-
-## Starting markup
-
-```html
-<!doctype html>
-<html lang="hr" class="no-js">
-<head>
-	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<title></title>
-	<meta name="description" content="" />
-	<meta name="author" content="" />
-	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
-	<link rel="shortcut icon" href="/favicon.ico" />
-	<link rel="stylesheet" href="" />
-</head>
-<body>
-
-	<script src=""></script>
-</body>
-</html>
-```
