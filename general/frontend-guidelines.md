@@ -47,11 +47,6 @@ For example, instead of `.article-text.big`, new name should be `.article-text.a
 
 All changes should be done according to the principle of "defensive programming" - it is more appropriate to extend the current component with new modifications than to modify the same that could disrupt other modules that use these components.
 
-### Line length
-
-Line length in code and comments should be within the normal typographic boundaries,
-e.g. about 80 characters.
-
 ### Placeholder text
 
 In case of unavailable content for the project, instead of the standard Lorem Ipsum text,
@@ -85,17 +80,6 @@ For CSS generated content, HTML entities are converted to Unicode code points.
 	content:'\2026';
 }
 ```
-
-## Formatting
-
-### Indentation and alignment
-
-4 tabs are used for indentationa and alignment. Do not mix tabs and spaces.
-
-### Trailing whitespace
-
-Trailing whitespace should always be deleted. Most modern editors and IDEs have
-option to delete trailing space when saving a file.
 
 ## Naming structure
 
