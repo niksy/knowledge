@@ -647,6 +647,7 @@ Some useful reference material on various development topics. Will probably be t
 * https://ishadeed.com/article/grid-layout-flexbox-components/
 * https://gridbyexample.com/
 * https://grid.layoutit.com/
+* https://ishadeed.com/article/css-grid-minmax/
 
 ## Vue
 
