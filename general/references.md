@@ -714,6 +714,7 @@ Some useful reference material on various development topics. Will probably be t
 ## PWA
 
 * https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/
+* https://pwadvent.dev/
 
 ## React
 
