@@ -355,7 +355,7 @@ Some useful reference material on various development topics. Will probably be t
 * Unlike React, Vue doesn’t have global event handle which delegates events to every component. Instead, [it attaches event ot each component](https://forum.vuejs.org/t/is-event-delegation-necessary/3701). This can have performance on really large lists of data (but probably isn’t that bad).
 * Vue parent-child communication with events is constrained to direct parent-child relationship, so emmitted event from child can only be listened on direct parent of that child. If you want to listen to event from child in upper parents, you need to re-emmit that event in direct parent of that child.
 
-### Service Workers
+### Service Workers / PWA
 
 * [Service Workers](https://serviceworke.rs/)
 * [Service Workers 101](https://github.com/delapuente/service-workers-101)
@@ -394,6 +394,8 @@ Some useful reference material on various development topics. Will probably be t
 * [PWA Directory](https://pwa-directory.appspot.com/)
 * [Various resources](https://github.com/pinterest/service-workers)
 * [PWA Stats](https://www.pwastats.com/)
+* https://pwadvent.dev/
+* https://www.smashingmagazine.com/2018/11/guide-pwa-progressive-web-applications/
 
 #### Tools
 
