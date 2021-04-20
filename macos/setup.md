@@ -142,6 +142,11 @@ Some settings can’t be set automatically so we have to set them manually.
 		* When the display is sleeping (check)
 		* When the screen is locked (check)
 		* When mirroring to TVs and projectors (check)
+	* System Preferences → Spotlight → Search Results
+		* Uncheck all
+		* Applications (check)
+		* Calculator (check)
+		* System Preferences (check)
 1. Set macOS apps
 	* Terminal
 		* Profiles → Advanced → Bell → Audible bell (uncheck)
