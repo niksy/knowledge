@@ -171,8 +171,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Mail
 		* Set mailbox behavior with Accounts → Mailbox Behaviors
 		* Erase junk/deleted messages: Never
-	* iTunes
-		* Preferences → Devices → Prevent iPods, iPhones, and iPads from syncing automatically (check)
 	* Photos
 	 	* [Disable automatic opening when camera is connected](http://lifehacker.com/uncheck-this-box-to-stop-photos-from-opening-when-you-c-1709336195)
 1. Finder sidebar
@@ -188,7 +186,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Launch automatically on login
 	* Rest
 		* c/p PLIST and `defaults read dangelov.Rest-Lite`
-	* Sublime Text 2/3
+	* Sublime Text
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
 		* Remove minimap
