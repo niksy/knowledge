@@ -181,11 +181,13 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Unarchiver
 		* Select all types
 	* Moom
-		* c/p PLIST and `defaults read com.manytricks.Moom`
+		* Copy and paste plist file
+		* Run `defaults read com.manytricks.Moom`
 		* Add licence
 		* Launch automatically on login
 	* Rest
-		* c/p PLIST and `defaults read dangelov.Rest-Lite`
+		* Copy and paste plist file
+		* Run `defaults read dangelov.Rest-Lite`
 	* Sublime Text
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
