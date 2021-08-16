@@ -133,7 +133,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → Internet Accounts
 	* System Preferences → Users & Groups
 		* Add Messages to login items and activate checkbox to hide it while turning OS on
-		* Remove "iTunesHelper" item
 		* Disable Guest user
 	* System Preferences → Keyboard → Shortcuts → Keyboard
 		* Move focus to the menu bar == ⌃-
@@ -141,11 +140,11 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → Security & Privacy → General
 		* Require password "immediately" after sleep or screen saver begins (check)
 	* System Preferences → Sound
-		* Alert sound: Submarine
+		* Alert sound: Basso
 		* Play user interface sound effects (uncheck)
 		* Show volume in menubar (check)
 		* Alert volume: lower all the way to the left
-	* System Preferences → Accessibility → Flash the screen when an alert sound occurs (check)
+	* System Preferences → Accessibility → Audio → Flash the screen when an alert sound occurs (check)
 	* System Preferences → Notifications → Do Not Disturb → Turn on Do Not Disturb:
 		* When the display is sleeping (check)
 		* When the screen is locked (check)
@@ -179,9 +178,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	 	* [Disable automatic opening when camera is connected](http://lifehacker.com/uncheck-this-box-to-stop-photos-from-opening-when-you-c-1709336195)
 1. Finder sidebar
 	* Add Home and place at top
-	* Add Movies and place below Downloads
 	* Remove Tags
-	* Remove CDs, DVDs, iPods
 	* Remove Recents
 1. Set 3rd party apps
 	* Unarchiver
