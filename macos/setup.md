@@ -103,6 +103,8 @@ After installation of OS is complete, follow next instructions. They’re not "s
 1. Install Node, npm and packages.
 
 	```sh
+	cd ~
+	mkdir .nvm
 	nvm install 12
 	source .dotfiles/.packages
 	```
