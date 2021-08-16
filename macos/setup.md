@@ -95,7 +95,8 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	cd ~/.ssh
 	ssh-keygen -t rsa -C "_EMAIL_"
 	pbcopy < ~/.ssh/id_rsa_github.pub
-	# Add to github.com settings…
+	# Add to github.com settings
+	# Add Host entry to ~/.ssh/config
 	ssh -T git@github.com
 	```
 
