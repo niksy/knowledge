@@ -39,12 +39,13 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	sh dotfiles link
 	```
 
+1. Set Terminal profile to `~/.dotfiles/.init/niksy.terminal` and set it as default profile.
+
 1. Install Homebrew packages and all other packages.
 
 	```sh
 	cd ~
 	source .dotfiles/.brew
-	source .dotfiles/.packages
 	```
 
 1. Add config data to `.extra`.
@@ -63,8 +64,6 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	git config --file .gitconfig_extra user.name "_NAME_"
 	git config --file .gitconfig_extra user.email "_EMAIL_"
 	```
-
-1. Set Terminal profile to `~/.dotfiles/.init/niksy.terminal` and set it as default profile.
 
 1. Run `.macos`. **Don’t forget to set proper password when asked for sudo permissions!**
 
@@ -98,6 +97,13 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	pbcopy < ~/.ssh/id_rsa_github.pub
 	# Add to github.com settings…
 	ssh -T git@github.com
+	```
+
+1. Install Node, npm and packages.
+
+	````sh
+	nvm install 12
+	source .dotfiles/.packages
 	```
 
 ### Manual procedures
