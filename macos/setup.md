@@ -101,7 +101,7 @@ After installation of OS is complete, follow next instructions. They’re not "s
 
 1. Install Node, npm and packages.
 
-	````sh
+	```sh
 	nvm install 12
 	source .dotfiles/.packages
 	```
@@ -119,6 +119,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → Desktop & Screen Saver → Desktop → Solid Colors (Solid Aqua Dark Blue)
 	* System Preferences → Siri → Show Siri in menu bar (uncheck)
 	* System Preferences → Siri → Enable ask Siri (uncheck)
+	* System Preferences → Dock & Menu Bar → Battery → Show Percentage (check)
 1. Menubar
 	* Turn on Bluetooth
 	* Remove icon for Time Machine
