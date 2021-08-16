@@ -27,6 +27,8 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	xcode-select --install
 	```
 
+1. Install [Homebrew](http://brew.sh), following these [instructions](http://brew.sh/#install). Ignore warning if Homebrew is not available in `PATH`, it will be available when following step is completed.
+
 1. Get and run [dotfiles](https://github.com/niksy/dotfiles) setup. Follow instructions after everything is done.
 
 	```sh
@@ -36,8 +38,6 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	git clone https://github.com/niksy/dotfiles.git .
 	sh dotfiles link
 	```
-
-1. Install [Homebrew](http://brew.sh), following these [instructions](http://brew.sh/#install).
 
 1. Install Homebrew packages and all other packages.
 
