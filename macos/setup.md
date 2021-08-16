@@ -132,7 +132,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → iCloud
 	* System Preferences → Internet Accounts
 	* System Preferences → Users & Groups
-		* Add Messages to login items and activate checkbox to hide it while turning OS on
 		* Disable Guest user
 	* System Preferences → Keyboard → Shortcuts → Keyboard
 		* Move focus to the menu bar == ⌃-
@@ -163,7 +162,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Contacts  
 		* Set "Google" as default account
 	* Calendar  
-		* Set "Ivan Nikolić" as default calendar
+		* Set "Ivan Nikolić" (Google) as default calendar
 	* Finder
 		* Remove icons from toolbar
 		* Open your user folder and then: View → Show View Options → Show Library Folder (check)
