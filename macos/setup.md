@@ -10,7 +10,6 @@
 	* GitHub SSH
 1. Backup files
 	* Moom PLIST
-	* Transmission PLIST
 	* Rest PLIST
 1. Delete mail accounts
 
@@ -182,8 +181,6 @@ Some settings can’t be set automatically so we have to set them manually.
 		* c/p PLIST and `defaults read com.manytricks.Moom`
 		* Add licence
 		* Launch automatically on login
-	* Transmission
-		* c/p PLIST and `defaults read org.m0k.transmission`
 	* Rest
 		* c/p PLIST and `defaults read dangelov.Rest-Lite`
 	* Sublime Text 2/3
