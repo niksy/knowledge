@@ -117,9 +117,8 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → General → Recent items: 5
 	* System Preferences → Displays → Night Shift
 	    * Schedule: Sunset to Sunrise
-	    * Manual: Turn On Until Sunrise (check)
 	    * Color Temperature: Between "Less Warm" and middle value
-	* System Preferences → Desktop & Screen Saver → Desktop → Solid Colors (Solid Aqua Dark Blue)
+	* System Preferences → Desktop & Screen Saver → Desktop → Solid Colors (Black)
 	* System Preferences → Siri → Show Siri in menu bar (uncheck)
 	* System Preferences → Siri → Enable ask Siri (uncheck)
 	* System Preferences → Dock & Menu Bar → Battery → Show Percentage (check)
