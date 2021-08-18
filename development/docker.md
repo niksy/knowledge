@@ -43,6 +43,12 @@ Or
 docker ps -aq | xargs docker rm
 ```
 
+## Remove all Docker images
+
+```sh
+docker images | awk '{print $3}' | xargs docker image rm -f
+```
+
 ## Start interactive session
 
 Assuming Ubuntu installation:
