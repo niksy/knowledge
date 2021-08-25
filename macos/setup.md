@@ -100,7 +100,7 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	ssh -T git@github.com
 	```
 
-1. Install Node, npm and packages, and [login as npm user](development/npm.md).
+1. Install Node, npm and packages, and [login as npm user](/development/npm.md).
 
 	```sh
 	cd ~
