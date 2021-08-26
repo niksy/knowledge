@@ -193,3 +193,5 @@ Some settings can’t be set automatically so we have to set them manually.
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
 		* Remove minimap
+1. Position laption and desktop monitor configuration:
+	* ![Screenshot 2021-08-16 at 16 36 11](https://user-images.githubusercontent.com/389286/130928340-2a01124d-fb38-41a4-9cf6-00b71eb483d6.png)
