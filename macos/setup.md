@@ -122,6 +122,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* System Preferences → Siri → Show Siri in menu bar (uncheck)
 	* System Preferences → Siri → Enable ask Siri (uncheck)
 	* System Preferences → Dock & Menu Bar → Battery → Show Percentage (check)
+	* System Preferences → Dock & Menu Bar → Clock → Show date (check)
 1. Menubar
 	* Turn on Bluetooth
 	* Remove icon for Time Machine
