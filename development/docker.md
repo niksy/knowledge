@@ -51,13 +51,25 @@ docker images | awk '{print $3}' | xargs docker image rm -f
 
 ## Start interactive session
 
-Assuming Ubuntu installation:
-
 ```sh
 docker run -it <image> /bin/bash
 ```
 
-Or you can attach to stopped container with Bash already started:
+## Start detached container
+
+```sh
+docker run -d <image>
+```
+
+You can also start interactive session with `-it` and attach to it later with `attach`.
+
+## Remove container when it exits
+
+```sh
+docker run --rm <image>
+```
+
+## Attach to stopped container with interactive session started
 
 ```sh
 docker start <container>
