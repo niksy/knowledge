@@ -126,7 +126,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Control Center → Siri → Don’t Show in Menu Bar
 	* Control Center → Time Machine → Don’t Show in Menu Bar
 	* Control Center → Bluetooth → Show in Menu Bar
-	* Siri → Enable ask Siri (uncheck)
+	* Control Center → Sound → Always Show in Menu Bar
 1. Run daemon applications
 	* The Unarchiver
 	* Moom
