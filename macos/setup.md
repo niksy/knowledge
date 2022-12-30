@@ -125,6 +125,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Wallpaper → Solid Colors (Black)
 	* Control Center → Siri → Don’t Show in Menu Bar
 	* Control Center → Time Machine → Don’t Show in Menu Bar
+	* Control Center → Spotlight → Don’t Show in Menu Bar
 	* Control Center → Bluetooth → Show in Menu Bar
 	* Control Center → Sound → Always Show in Menu Bar
 1. Run daemon applications
