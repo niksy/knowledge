@@ -146,10 +146,10 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Show volume in menubar (check)
 		* Alert volume: lower all the way to the left
 	* Accessibility → Audio → Flash the screen when an alert sound occurs (check)
-	* Notifications → Do Not Disturb → Turn on Do Not Disturb:
-		* When the display is sleeping (check)
-		* When the screen is locked (check)
-		* When mirroring to TVs and projectors (check)
+	* Notifications
+		* Allow notifications when the display is sleeping (uncheck)
+		* Allow notifications when the screen is locked (uncheck)
+		* Allow notifications when mirroring or sharing display (uncheck)
 	* Spotlight → Search Results
 		* Uncheck all
 		* Applications (check)
@@ -157,6 +157,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* System Preferences (check)
 1. Set macOS apps
 	* Terminal
+		* Update font and font size if it’s not applied
 		* Profiles → Advanced → Bell → Audible bell (uncheck)
 		* Profiles → Advanced → Bell → Visual bell → Only when sound is muted (uncheck)
 	* Contacts  
@@ -184,9 +185,6 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Run `defaults read com.manytricks.Moom`
 		* Add licence
 		* Launch automatically on login
-	* Rest
-		* Copy and paste plist file
-		* Run `defaults read dangelov.Rest-Lite`
 	* Sublime Text
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
