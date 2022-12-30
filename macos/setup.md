@@ -128,6 +128,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Control Center → Spotlight → Don’t Show in Menu Bar
 	* Control Center → Bluetooth → Show in Menu Bar
 	* Control Center → Sound → Always Show in Menu Bar
+	* Desktop & Dock → Hot Corners → Disable all
 1. Run daemon applications
 	* The Unarchiver
 	* Moom
