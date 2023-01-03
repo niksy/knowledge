@@ -19,6 +19,8 @@ After installation of OS is complete, follow next instructions. They’re not "s
 
 1. Check for and install software updates via Mac App Store.
 
+1. Grant Terminal full disk access (System Settings → Privacy & Security → Full Disk Access → Terminal (check)).
+
 1. Switch to Bash shell.
 
 	```sh
@@ -69,17 +71,11 @@ After installation of OS is complete, follow next instructions. They’re not "s
 	git config --file .gitconfig_extra user.email "_EMAIL_"
 	```
 
-1. Close current shell, open new shell and run `.macos`. **Don’t forget to set proper password when asked for sudo permissions!**
+1. Close current shell, open new shell and run macOS setup scripts. **Don’t forget to set proper password when asked for sudo permissions!**
 
 	```sh
 	cd ~
 	source .dotfiles/.macos
-	```
-
-1. Run `.macos_extra`.
-
-	```sh
-	cd ~
 	source .dotfiles/.macos_extra
 	```
 
@@ -140,7 +136,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Keyboard shortcuts
 		* Move focus to the menu bar == ⌃-
 		* Move focus to next window == ⌘“
-		* Mail → Send == ⌘ + Enter
 	* Security & Privacy
 		* Require password "immediately" after sleep or screen saver begins (check)
 	* Sound
