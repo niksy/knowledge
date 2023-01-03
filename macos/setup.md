@@ -168,9 +168,6 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Mail
 		* Set mailbox behavior with Accounts → Mailbox Behaviors
 		* Erase junk/deleted messages: Never
-		* Use "Helvetica 14" for message font and "Consolas 14" for fixed width font
-		* Viewing → Show most recent messages at the top
-		* Edit → Spelling and Grammar → Correct Spelling Automatically (uncheck)
 	* Photos
 	 	* [Disable automatic opening when camera is connected](http://lifehacker.com/uncheck-this-box-to-stop-photos-from-opening-when-you-c-1709336195)
 1. Finder sidebar
