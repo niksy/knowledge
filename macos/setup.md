@@ -140,6 +140,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Keyboard shortcuts
 		* Move focus to the menu bar == ⌃-
 		* Move focus to next window == ⌘“
+		* Mail → Send == ⌘ + Enter
 	* Security & Privacy
 		* Require password "immediately" after sleep or screen saver begins (check)
 	* Sound
