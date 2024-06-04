@@ -44,16 +44,6 @@ To add password, there are several ways:
 * Access Keychain entry username: `security find-generic-password -s Foobar | awk -F\" '/acct"<blob>/ {print $4}'`
 * Access Keychain entry password: `security find-generic-password -s Foobar -w`
 
-## Save Cisco IPSec password in the Keychain
-
-* Open Keychain Access
-* Select `System` keychain and `All Items` category
-* Find item who is kind `IPSec XAuth Password` and open it
-* Click the `Access Control` tab
-* Click the plus sign
-* When the Finder window appears, press `Cmd + Shift + G`, enter `/usr/libexec/configd` and add it to the list
-* Save changes, close Keychain Access and try connecting to your VPN again
-
 #### References
 
 * https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/security.1.html
