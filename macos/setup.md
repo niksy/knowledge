@@ -125,6 +125,7 @@ Some settings can’t be set automatically so we have to set them manually.
 	* Control Center → Bluetooth → Show in Menu Bar
 	* Control Center → Sound → Always Show in Menu Bar
 	* Desktop & Dock → Hot Corners → Disable all
+ 	* Keyboard → Text Input → Edit → Show inline predictive text (uncheck)
 1. Run daemon applications
 	* The Unarchiver
 	* Moom
