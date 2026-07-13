@@ -159,6 +159,7 @@ Some settings can’t be set automatically so we have to set them manually.
 		* Update font and font size if it’s not applied
 		* Profiles → Advanced → Bell → Audible bell (uncheck)
 		* Profiles → Advanced → Bell → Visual bell → Only when sound is muted (uncheck)
+		* Profiles → Keyboard → Use Option as Meta key (uncheck)
 	* Contacts  
 		* Set "Google" as default account
 	* Calendar  
