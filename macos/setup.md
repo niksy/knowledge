@@ -109,6 +109,10 @@ After installation of OS is complete, follow next instructions. They’re not "s
 Some settings can’t be set automatically so we have to set them manually.
 
 1. Set global settings
+	* Appearance → Liquid Glass (full right)
+ 	* Appearance → Show scroll bars → When scrolling
+  	* Appearance → Windows → Tint window background with wallpaper color
+   	* Appearance → Theme → Color → Multicolor
 	* Displays → Night Shift
 	    * Schedule: Sunset to Sunrise
 	    * Color Temperature: Between "Less Warm" and middle value
