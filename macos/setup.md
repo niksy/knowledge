@@ -3,14 +3,8 @@
 ## Backup old system
 
 1. Remove licenses and deactivate software:
-	* Creative Suite
-	* Moom
 	* Sublime Text
-	* iTunes
 	* GitHub SSH
-1. Backup files
-	* Moom PLIST
-	* Rest PLIST
 1. Delete mail accounts
 
 ## Setup new system
@@ -129,7 +123,6 @@ Some settings can’t be set automatically so we have to set them manually.
  	* Keyboard → Text Input → Edit → Show inline predictive text (uncheck)
 1. Run daemon applications
 	* The Unarchiver
-	* Moom
 1. Set services
 	* iCloud
 	* Internet Accounts
@@ -179,11 +172,6 @@ Some settings can’t be set automatically so we have to set them manually.
 1. Set 3rd party apps
 	* Unarchiver
 		* Select all types
-	* Moom
-		* Copy and paste plist file
-		* Run `defaults read com.manytricks.Moom`
-		* Add licence
-		* Launch automatically on login
 	* Sublime Text
 		* [Instructions](https://github.com/niksy/st-settings)
 		* Add licence
